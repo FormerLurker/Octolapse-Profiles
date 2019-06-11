@@ -1,0 +1,96 @@
+{
+  "name": "Printer Profiles",
+  "value": "printer-profiles",
+  "options": [
+    {
+      "name": "Anet",
+      "value": "anet",
+      "models": [
+        {
+          "name": "A8",
+          "value": "a8"
+        }
+      ]
+    },
+    {
+      "name": "Anycubic",
+      "value": "anycubic",
+      "models": [
+        {
+          "name": "I3 Mega",
+          "value": "i3-mega"
+        }
+      ]
+    },
+    {
+      "name": "Creality3d",
+      "value": "crealty3d",
+      "models": [
+        {
+          "name": "CR-10",
+          "value": "cr-10"
+        }
+      ]
+    },
+    {
+      "name": "Dagoma",
+      "value": "dagoma",
+      "models": [
+        {
+          "name": "Neva",
+          "value": "neva",
+        }
+      ]
+    },
+    {
+      "name": "Monoprice",
+      "value": "monoprice",
+      "models": [
+        {
+          "name": "Maker Seelct V2",
+          "value": "maker-select-v2",
+        }
+      ]
+    },
+    {
+      "name": "Prusa",
+      "value": "prusa",
+      "models": [
+        {
+          "name": "MK2",
+          "value": "mk2",
+        },
+        {
+          "name": "MK2S",
+          "value": "mk2s",
+        },
+        {
+          "name": "MK2.5",
+          "value": "mk2.5",
+        },
+        {
+          "name": "MK2.5S",
+          "value": "mk2.5s",
+        },
+        {
+          "name": "MK3",
+          "value": "mk3",
+        },
+        {
+          "name": "MK3S",
+          "value": "mk3s",
+        }
+      ]
+    },
+    {
+      "name": "Wanhao",
+      "value": "wanhao",
+      "models": [
+        {
+          "name": "Duplicator I3",
+          "value": "duplicator-i3"
+        }
+      ]
+    }
+  ]
+}
