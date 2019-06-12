@@ -38,7 +38,7 @@
       "models": [
         {
           "name": "Neva",
-          "value": "neva",
+          "value": "neva"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "models": [
         {
           "name": "Maker Seelct V2",
-          "value": "maker-select-v2",
+          "value": "maker-select-v2"
         }
       ]
     },
@@ -58,27 +58,27 @@
       "models": [
         {
           "name": "MK2",
-          "value": "mk2",
+          "value": "mk2"
         },
         {
           "name": "MK2S",
-          "value": "mk2s",
+          "value": "mk2s"
         },
         {
           "name": "MK2.5",
-          "value": "mk2.5",
+          "value": "mk2.5"
         },
         {
           "name": "MK2.5S",
-          "value": "mk2.5s",
+          "value": "mk2.5s"
         },
         {
           "name": "MK3",
-          "value": "mk3",
+          "value": "mk3"
         },
         {
           "name": "MK3S",
-          "value": "mk3s",
+          "value": "mk3s"
         }
       ]
     },
