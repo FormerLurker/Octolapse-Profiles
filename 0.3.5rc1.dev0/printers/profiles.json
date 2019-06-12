@@ -1,96 +1,77 @@
 {
   "name": "Printer Profiles",
   "value": "printer-profiles",
-  "options": [
-    {
+  "options": {
+    "anet": {
       "name": "Anet",
-      "value": "anet",
       "models": [
         {
-          "name": "A8",
-          "value": "a8"
+          "name": "A8"
         }
       ]
     },
-    {
+    "anycubic":{
       "name": "Anycubic",
-      "value": "anycubic",
       "models": [
         {
-          "name": "I3 Mega",
-          "value": "i3-mega"
+          "name": "I3 Mega"
         }
       ]
     },
-    {
+    "cralty3d":{
       "name": "Creality3d",
-      "value": "crealty3d",
       "models": [
         {
-          "name": "CR-10",
-          "value": "cr-10"
+          "name": "CR-10"
         }
       ]
     },
-    {
+    "dagoma":{
       "name": "Dagoma",
-      "value": "dagoma",
       "models": [
         {
-          "name": "Neva",
-          "value": "neva"
+          "name": "Neva"
         }
       ]
     },
-    {
+    "monoprice":{
       "name": "Monoprice",
-      "value": "monoprice",
       "models": [
         {
-          "name": "Maker Seelct V2",
-          "value": "maker-select-v2"
+          "name": "Maker Seelct V2"
         }
       ]
     },
-    {
+    "prusa":{
       "name": "Prusa",
-      "value": "prusa",
-      "models": [
-        {
-          "name": "MK2",
-          "value": "mk2"
+      "models": {
+        "mk2": {
+          "name": "MK2"
         },
-        {
-          "name": "MK2S",
-          "value": "mk2s"
+        "mk2s": {
+          "name": "MK2S"
         },
-        {
-          "name": "MK2.5",
-          "value": "mk2.5"
+        "mk2.5": {
+          "name": "MK2.5"
         },
-        {
-          "name": "MK2.5S",
-          "value": "mk2.5s"
+        "mk2.5s": {
+          "name": "MK2.5S"
         },
-        {
-          "name": "MK3",
-          "value": "mk3"
+        "mk3": {
+          "name": "MK3"
         },
-        {
-          "name": "MK3S",
-          "value": "mk3s"
+        "mk3s": {
+          "name": "MK3S"
         }
-      ]
+      }
     },
-    {
+    "wanho":{
       "name": "Wanhao",
-      "value": "wanhao",
-      "models": [
-        {
-          "name": "Duplicator I3",
-          "value": "duplicator-i3"
+      "models": {
+        "duplicaator-i3": {
+          "name": "Duplicator I3"
         }
-      ]
+      }
     }
-  ]
+  }
 }
