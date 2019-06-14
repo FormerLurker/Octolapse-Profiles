@@ -42,6 +42,14 @@
         }
       }
     },
+    "lulzbot":{
+      "name": "Lulzbot",
+      "models":{
+        "taz6":{
+          "name": "Taz 6"
+        }
+      }
+    },
     "monoprice":{
       "name": "Monoprice",
       "models":{
