@@ -4,43 +4,51 @@
   "options": {
     "anet": {
       "name": "Anet",
-      "models": [
-        {
+      "models": {
+        "a8":{
           "name": "A8"
         }
-      ]
+      }
     },
     "anycubic":{
       "name": "Anycubic",
-      "models": [
-        {
+      "models": {
+        "i3-mega":{
           "name": "I3 Mega"
         }
-      ]
+      }
     },
     "cralty3d":{
       "name": "Creality3d",
-      "models": [
-        {
+      "models": {
+        "cr-10": {
           "name": "CR-10"
         }
-      ]
+      }
     },
     "dagoma":{
       "name": "Dagoma",
-      "models": [
-        {
+      "models":{
+        "neva":{
           "name": "Neva"
         }
-      ]
+      }
+    },
+    "irapid":{
+      "name": "Irapid",
+      "models":{
+        "black":{
+          "name": "Black"
+        }
+      }
     },
     "monoprice":{
       "name": "Monoprice",
-      "models": [
-        {
-          "name": "Maker Seelct V2"
+      "models":{
+        "maker-select-v2":{
+          "name": "Maker Select V2"
         }
-      ]
+      }
     },
     "prusa":{
       "name": "Prusa",
