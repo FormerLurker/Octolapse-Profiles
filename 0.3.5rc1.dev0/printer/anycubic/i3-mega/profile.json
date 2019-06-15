@@ -6,8 +6,7 @@
     "is_automatic": true,
     "suppress_update_notification_version": null,
     "other_model": "",
-    "other_make": "",
-
+    "other_make": ""
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
