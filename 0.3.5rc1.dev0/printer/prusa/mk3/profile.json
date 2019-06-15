@@ -1,4 +1,13 @@
 {
+  "automatic_configuration": {
+    "make": "prusa",
+    "model": "mk3",
+    "version": "1.0",
+    "is_automatic": true,
+    "suppress_update_notification_version": null,
+    "other_model": "",
+    "other_make": ""
+  },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
   "restrict_snapshot_area": true,
