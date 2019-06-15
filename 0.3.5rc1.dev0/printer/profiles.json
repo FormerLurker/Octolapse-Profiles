@@ -18,7 +18,7 @@
         }
       }
     },
-    "cralty3d":{
+    "crealty3d":{
       "name": "Creality3d",
       "models": {
         "cr-10": {
@@ -84,7 +84,7 @@
     "wanho":{
       "name": "Wanhao",
       "models": {
-        "duplicaator-i3": {
+        "duplicator-i3": {
           "name": "Duplicator I3"
         }
       }
