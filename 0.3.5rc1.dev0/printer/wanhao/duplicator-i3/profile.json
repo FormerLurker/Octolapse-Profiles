@@ -1,11 +1,11 @@
 {
   "automatic_configuration": {
-    "make": "other",
-    "is_automatic": false,
+    "make": "wanhao",
+    "is_automatic": true,
     "suppress_update_notification_version": false,
     "version": null,
     "other_model": null,
-    "model": "other",
+    "model": "duplicator-i3",
     "other_make": null
   },
   "gocde_axis_compatibility_mode_enabled": true,
