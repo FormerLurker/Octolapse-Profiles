@@ -6,7 +6,8 @@
       "name": "Anet",
       "models": {
         "a8":{
-          "name": "A8"
+          "name": "A8",
+          "version": "1.0"
         }
       }
     },
@@ -14,7 +15,8 @@
       "name": "Anycubic",
       "models": {
         "i3-mega":{
-          "name": "I3 Mega"
+          "name": "I3 Mega",
+          "version": "1.0"
         }
       }
     },
@@ -22,7 +24,8 @@
       "name": "Creality3d",
       "models": {
         "cr-10": {
-          "name": "CR-10"
+          "name": "CR-10",
+          "version": "1.0"
         }
       }
     },
@@ -30,7 +33,8 @@
       "name": "Dagoma",
       "models":{
         "neva":{
-          "name": "Neva"
+          "name": "Neva",
+          "version": "1.0"
         }
       }
     },
@@ -38,7 +42,8 @@
       "name": "Irapid",
       "models":{
         "black":{
-          "name": "Black"
+          "name": "Black",
+          "version": "1.0"
         }
       }
     },
@@ -46,7 +51,8 @@
       "name": "Lulzbot",
       "models":{
         "taz-6":{
-          "name": "Taz 6"
+          "name": "Taz 6",
+          "version": "1.0"
         }
       }
     },
@@ -54,7 +60,8 @@
       "name": "Monoprice",
       "models":{
         "maker-select-v2":{
-          "name": "Maker Select V2"
+          "name": "Maker Select V2",
+          "version": "1.0"
         }
       }
     },
@@ -62,22 +69,28 @@
       "name": "Prusa",
       "models": {
         "mk2": {
-          "name": "MK2"
+          "name": "MK2",
+          "version": "1.0"
         },
         "mk2s": {
-          "name": "MK2S"
+          "name": "MK2S",
+          "version": "1.0"
         },
         "mk2.5": {
-          "name": "MK2.5"
+          "name": "MK2.5",
+          "version": "1.0"
         },
         "mk2.5s": {
-          "name": "MK2.5S"
+          "name": "MK2.5S",
+          "version": "1.0"
         },
         "mk3": {
-          "name": "MK3"
+          "name": "MK3",
+          "version": "1.0"
         },
         "mk3s": {
-          "name": "MK3S"
+          "name": "MK3S",
+          "version": "1.0"
         }
       }
     },
@@ -85,7 +98,8 @@
       "name": "Wanhao",
       "models": {
         "duplicator-i3": {
-          "name": "Duplicator I3"
+          "name": "Duplicator I3",
+          "version": "1.0"
         }
       }
     }
