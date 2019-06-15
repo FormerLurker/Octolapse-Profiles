@@ -1,0 +1,108 @@
+{
+  "printers":{
+    "name": "Printer Profiles",
+    "options": {
+      "anet": {
+        "name": "Anet",
+        "models": {
+          "a8": {
+            "name": "A8",
+            "version": "1.0"
+          }
+        }
+      },
+      "anycubic": {
+        "name": "Anycubic",
+        "models": {
+          "i3-mega": {
+            "name": "I3 Mega",
+            "version": "1.0"
+          }
+        }
+      },
+      "crealty3d": {
+        "name": "Creality3d",
+        "models": {
+          "cr-10": {
+            "name": "CR-10",
+            "version": "1.0"
+          }
+        }
+      },
+      "dagoma": {
+        "name": "Dagoma",
+        "models": {
+          "neva": {
+            "name": "Neva",
+            "version": "1.0"
+          }
+        }
+      },
+      "irapid": {
+        "name": "Irapid",
+        "models": {
+          "black": {
+            "name": "Black",
+            "version": "1.0"
+          }
+        }
+      },
+      "lulzbot": {
+        "name": "Lulzbot",
+        "models": {
+          "taz-6": {
+            "name": "Taz 6",
+            "version": "1.0"
+          }
+        }
+      },
+      "monoprice": {
+        "name": "Monoprice",
+        "models": {
+          "maker-select-v2": {
+            "name": "Maker Select V2",
+            "version": "1.0"
+          }
+        }
+      },
+      "prusa": {
+        "name": "Prusa",
+        "models": {
+          "mk2": {
+            "name": "MK2",
+            "version": "1.0"
+          },
+          "mk2s": {
+            "name": "MK2S",
+            "version": "1.0"
+          },
+          "mk2.5": {
+            "name": "MK2.5",
+            "version": "1.0"
+          },
+          "mk2.5s": {
+            "name": "MK2.5S",
+            "version": "1.0"
+          },
+          "mk3": {
+            "name": "MK3",
+            "version": "1.0"
+          },
+          "mk3s": {
+            "name": "MK3S",
+            "version": "1.0"
+          }
+        }
+      },
+      "wanho": {
+        "name": "Wanhao",
+        "models": {
+          "duplicator-i3": {
+            "name": "Duplicator I3",
+            "version": "1.0"
+          }
+        }
+      }
+    }
+  }
+}
