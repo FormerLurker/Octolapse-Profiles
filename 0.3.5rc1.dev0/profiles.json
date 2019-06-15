@@ -1,5 +1,5 @@
 {
-  "printers":{
+  "printer":{
     "name": "Printer Profiles",
     "options": {
       "anet": {
