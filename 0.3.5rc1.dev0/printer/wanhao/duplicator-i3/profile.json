@@ -1,12 +1,12 @@
 {
   "automatic_configuration": {
-    "make": "wanhao",
-    "model": "duplicator-i3",
-    "version": "1.0",
-    "is_automatic": true,
-    "suppress_update_notification_version": null,
-    "other_model": "",
-    "other_make": ""
+    "make": "other",
+    "is_automatic": false,
+    "suppress_update_notification_version": false,
+    "version": null,
+    "other_model": null,
+    "model": "other",
+    "other_make": null
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
@@ -19,14 +19,11 @@
   "abort_out_of_bounds": true,
   "min_y": 0.0,
   "min_z": 0.0,
-  "make": "wanho",
-  "version": "0.3.5rc1.dev0",
-  "minimum_layer_height": 0.05,
+  "suppress_snapshot_command_always": true,
   "max_z": 0.0,
   "max_x": 0.0,
   "max_y": 0.0,
   "has_been_saved_by_user": true,
-  "timestamp": null,
   "e_axis_default_mode": "absolute",
   "slicer_type": "automatic",
   "auto_position_detection_commands": "",
@@ -36,7 +33,7 @@
   "origin_x": null,
   "priming_height": 0.5,
   "min_x": 0.0,
-  "other_make": null,
+  "units_default": "millimeters",
   "default_firmware_retractions_zhop": false,
   "axis_speed_display_units": "mm-min",
   "gcode_generation_settings": {
@@ -53,11 +50,9 @@
     "retraction_length": 2
   },
   "name": "Wanhao Duplicator i3",
-  "units_default": "millimeters",
-  "snapshot_max_z": 0.0,
+  "minimum_layer_height": 0.05,
   "snapshot_command": "snap",
   "override_octoprint_print_volume": false,
-  "auto_detect_position": true,
   "default_firmware_retractions": false,
   "slicers": {
     "simplify_3d": {
@@ -124,10 +119,9 @@
       "retraction_hop_enabled": null
     }
   },
-  "other_model": null,
   "snapshot_max_x": 0.0,
   "snapshot_max_y": 0.0,
-  "model": "duplicaator-i3",
+  "snapshot_max_z": 0.0,
   "xyz_axes_default_mode": "absolute",
-  "suppress_snapshot_command_always": true
+  "auto_detect_position": true
 }
