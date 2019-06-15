@@ -1,7 +1,5 @@
 {
   "printer":{
-    "name": "Printer Profiles",
-    "options": {
       "anet": {
         "name": "Anet",
         "models": {
@@ -103,6 +101,5 @@
           }
         }
       }
-    }
   }
 }
