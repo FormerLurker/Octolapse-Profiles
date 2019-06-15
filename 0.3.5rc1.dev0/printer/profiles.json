@@ -45,7 +45,7 @@
     "lulzbot":{
       "name": "Lulzbot",
       "models":{
-        "taz6":{
+        "taz-6":{
           "name": "Taz 6"
         }
       }
