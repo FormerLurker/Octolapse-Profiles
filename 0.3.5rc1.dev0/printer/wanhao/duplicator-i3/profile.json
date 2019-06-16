@@ -3,7 +3,7 @@
     "make": "wanhao",
     "is_automatic": true,
     "suppress_update_notification_version": false,
-    "version": null,
+    "version": "1.0",
     "other_model": null,
     "model": "duplicator-i3",
     "other_make": null
