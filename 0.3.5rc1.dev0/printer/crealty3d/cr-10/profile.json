@@ -1,6 +1,6 @@
 {
   "automatic_configuration": {
-    "make": "crealty",
+    "make": "crealty3d",
     "is_automatic": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
