@@ -1,0 +1,34 @@
+{
+  "automatic_configuration": {
+    "is_automatic": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key": "animated_orbit"
+  },
+  "y_relative_path_loop": true,
+  "y_relative": 50.0,
+  "x_relative_path":
+    "54.904,54.619,54.157,53.536,52.778,51.913,50.975,50.000,49.025,48.087,47.222,46.464,45.843,45.381,45.096,45.000,45.096,45.381,45.843,46.464,47.222,48.087,49.025,50.000,50.975,51.913,52.778,53.536,54.157,54.619,54.904,55.000",
+  "guid": "801846db-3889-4d90-8496-9a473ee99cc4",
+  "y_fixed_path_loop": true,
+  "x_relative_path_invert_loop": false,
+  "x_type": "relative_path",
+  "x_relative_path_loop": true,
+  "x_fixed_path": "0",
+  "y_type": "relative_path",
+  "y_fixed_coordinate": 0.0,
+  "x_fixed_coordinate": 0.0,
+  "y_fixed_path_invert_loop": true,
+  "description":
+    "Moves  print in a circular pattern around the center.  Best for prints with lower framerates, else the spiraling will be too fast.  For snap to print triggers, the extruder will be moved as closely as possible to the stabilization positions depending on the trigger options.",
+  "x_fixed_path_loop": true,
+  "x_relative_print": 50.0,
+  "x_relative": 50.0,
+  "x_fixed_path_invert_loop": true,
+  "y_relative_path_invert_loop": false,
+  "name": "Animation - Orbit",
+  "y_fixed_path": "0",
+  "y_relative_print": 50.0,
+  "y_relative_path":
+    "50.975,51.913,52.778,53.536,54.157,54.619,54.904,55.000,54.904,54.619,54.157,53.536,52.778,51.913,50.975,50.000,49.025,48.087,47.222,46.464,45.843,45.381,45.096,45.000,45.096,45.381,45.843,46.464,47.222,48.087,49.025,50.000"
+}
