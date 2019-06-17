@@ -101,5 +101,11 @@
           }
         }
       }
+  },
+  "stabilization": {
+    "centered": {
+      "name": "Centered",
+      "version": "1.0"
+    }
   }
 }
