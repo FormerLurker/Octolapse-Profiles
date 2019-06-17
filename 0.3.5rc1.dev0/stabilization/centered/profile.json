@@ -1,9 +1,9 @@
 {
   "automatic_configuration": {
-    "is_automatic": false,
+    "is_automatic": true,
     "suppress_update_notification_version": false,
-    "version": null,
-    "key": null
+    "version": "1.0",
+    "key": "centered"
   },
   "y_relative_path_loop": true,
   "y_relative": 50.0,
