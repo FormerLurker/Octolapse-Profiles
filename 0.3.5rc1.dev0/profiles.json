@@ -1,5 +1,7 @@
 {
-  "printer":{
+  "plugin_version": "0.3.5rc1.dev0",
+  "profiles": {
+    "printer": {
       "anet": {
         "name": "Anet",
         "models": {
@@ -101,101 +103,102 @@
           }
         }
       }
-  },
-  "stabilization": {
-    "animated_orbit": {
-      "name": "Animated - Orbit",
-      "version": "1.0"
     },
-    "animated_printing": {
-      "name": "Animated - Printing",
-      "version": "1.0"
+    "stabilization": {
+      "animated_orbit": {
+        "name": "Animated - Orbit",
+        "version": "1.0"
+      },
+      "animated_printing": {
+        "name": "Animated - Printing",
+        "version": "1.0"
+      },
+      "back_center": {
+        "name": "Back Center",
+        "version": "1.0"
+      },
+      "back_left": {
+        "name": "Back Left",
+        "version": "1.0"
+      },
+      "back_right": {
+        "name": "Back Right",
+        "version": "1.0"
+      },
+      "center_left": {
+        "name": "Center Left",
+        "version": "1.0"
+      },
+      "center_right": {
+        "name": "Center Right",
+        "version": "1.0"
+      },
+      "centered": {
+        "name": "Centered",
+        "version": "1.0"
+      },
+      "disabled": {
+        "name": "Disabled",
+        "version": "1.0"
+      },
+      "front_center": {
+        "name": "Front Center",
+        "version": "1.0"
+      },
+      "front_left": {
+        "name": "Front Left",
+        "version": "1.0"
+      },
+      "front_right": {
+        "name": "Front Right",
+        "version": "1.0"
+      }
     },
-    "back_center": {
-      "name": "Back Center",
-      "version": "1.0"
-    },
-    "back_left": {
-      "name": "Back Left",
-      "version": "1.0"
-    },
-    "back_right": {
-      "name": "Back Right",
-      "version": "1.0"
-    },
-    "center_left": {
-      "name": "Center Left",
-      "version": "1.0"
-    },
-    "center_right": {
-      "name": "Center Right",
-      "version": "1.0"
-    },
-    "centered": {
-      "name": "Centered",
-      "version": "1.0"
-    },
-    "disabled": {
-      "name": "Disabled",
-      "version": "1.0"
-    },
-    "front_center": {
-      "name": "Front Center",
-      "version": "1.0"
-    },
-    "front_left": {
-      "name": "Front Left",
-      "version": "1.0"
-    },
-    "front_right": {
-      "name": "Front Right",
-      "version": "1.0"
-    }
-  },
-  "trigger": {
-    "gcode": {
-      "name": "Classic Gcode",
-      "version": "1.0"
-    },
-    "layer": {
-      "name": "Classic Layer",
-      "version": "1.0"
-    },
-    "layer_0.5mm": {
-      "name": "Classic Height - Every 0.5mm",
-      "version": "1.0"
-    },
-    "smart_compatibility": {
-      "name": "Smart - Compatibility",
-      "version": "1.0"
-    },
-    "smart_fastest": {
-      "name": "Smart - Fastest (low quality)",
-      "version": "1.0"
-    },
-    "smart_high_quality": {
-      "name": "Smart - High Quality",
-      "version": "1.0"
-    },
-    "smart_highest_quality": {
-      "name": "Smart - Highest Quality (requires retraction)",
-      "version": "1.0"
-    },
-    "smart_normal_quality": {
-      "name": "Smart - Normal Quality",
-      "version": "1.0"
-    },
-    "smart_snap_to_print": {
-      "name": "Smart - Snap To Print",
-      "version": "1.0"
-    },
-    "timer_30_sec": {
-      "name": "Classic Timer - Every 0:30",
-      "version": "1.0"
-    },
-    "timer_60_sec": {
-      "name": "Classic Timer - Every 1:00",
-      "version": "1.0"
+    "trigger": {
+      "gcode": {
+        "name": "Classic Gcode",
+        "version": "1.0"
+      },
+      "layer": {
+        "name": "Classic Layer",
+        "version": "1.0"
+      },
+      "layer_0.5mm": {
+        "name": "Classic Height - Every 0.5mm",
+        "version": "1.0"
+      },
+      "smart_compatibility": {
+        "name": "Smart - Compatibility",
+        "version": "1.0"
+      },
+      "smart_fastest": {
+        "name": "Smart - Fastest (low quality)",
+        "version": "1.0"
+      },
+      "smart_high_quality": {
+        "name": "Smart - High Quality",
+        "version": "1.0"
+      },
+      "smart_highest_quality": {
+        "name": "Smart - Highest Quality (requires retraction)",
+        "version": "1.0"
+      },
+      "smart_normal_quality": {
+        "name": "Smart - Normal Quality",
+        "version": "1.0"
+      },
+      "smart_snap_to_print": {
+        "name": "Smart - Snap To Print",
+        "version": "1.0"
+      },
+      "timer_30_sec": {
+        "name": "Classic Timer - Every 0:30",
+        "version": "1.0"
+      },
+      "timer_60_sec": {
+        "name": "Classic Timer - Every 1:00",
+        "version": "1.0"
+      }
     }
   }
 }
