@@ -1,6 +1,6 @@
 {
   "automatic_configuration": {
-    "is_automatic": false,
+    "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
     "key": "layer"

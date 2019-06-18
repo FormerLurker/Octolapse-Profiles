@@ -1,7 +1,7 @@
 {
   "automatic_configuration": {
     "make": "crealty3d",
-    "is_automatic": false,
+    "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
     "other_model": null,

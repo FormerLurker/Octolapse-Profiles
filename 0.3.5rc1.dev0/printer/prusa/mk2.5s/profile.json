@@ -1,6 +1,6 @@
 {
   "automatic_configuration": {
-    "is_automatic": true,
+    "is_custom": false,
     "suppress_update_notification_version": null,
     "version": "1.0",
     "other_model": "",

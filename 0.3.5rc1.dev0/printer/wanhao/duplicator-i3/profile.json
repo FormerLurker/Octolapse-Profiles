@@ -1,7 +1,7 @@
 {
   "automatic_configuration": {
     "make": "wanhao",
-    "is_automatic": true,
+    "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
     "other_model": null,
