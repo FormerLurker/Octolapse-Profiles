@@ -1,0 +1,25 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": null,
+    "key": null
+  },
+  "timeout_ms": 5000,
+  "apply_settings_at_startup": false,
+  "on_after_render_script": "",
+  "name": "Gcode Camera - Built Into Printer",
+  "on_before_snapshot_script": "",
+  "gcode_camera_script": "M240",
+  "enabled": true,
+  "external_camera_snapshot_script": "",
+  "snapshot_transpose": "",
+  "on_before_render_script": "",
+  "delay": 125,
+  "camera_type": "printer-gcode",
+  "on_after_snapshot_script": "",
+  "on_print_start_script": "",
+  "apply_settings_before_print": false,
+  "guid": "8f675827-9c0a-4491-8284-3e9cffa7b9a0",
+  "description": "Sends a gcode to your printer to acquire a snapshot.  Uses the M240 command which is not supported by all printers or firmware.  Please test the M240 on your printer before using this profile."
+}

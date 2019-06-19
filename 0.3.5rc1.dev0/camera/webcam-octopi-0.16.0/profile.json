@@ -1,0 +1,25 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key": "webcam-octopi-0.16.0"
+  },
+  "timeout_ms": 5000,
+  "apply_settings_at_startup": false,
+  "on_after_render_script": "",
+  "name": "Webcam - Default OctoPi 0.16.0",
+  "on_before_snapshot_script": "",
+  "gcode_camera_script": "",
+  "enabled": true,
+  "external_camera_snapshot_script": "",
+  "snapshot_transpose": "",
+  "on_before_render_script": "",
+  "delay": 125,
+  "camera_type": "webcam",
+  "on_after_snapshot_script": "",
+  "on_print_start_script": "",
+  "apply_settings_before_print": false,
+  "guid": "354def78-9eea-409a-ad23-ee966dfff4ba",
+  "description": "This profile should work for the default settings within OctoPi V0.16.0 for most locally attached USB or Raspberry Pi cameras."
+}

@@ -212,6 +212,88 @@
         "name": "Classic Timer - Every 1:00",
         "version": "1.0"
       }
+    },
+    "rendering": {
+      "mp4-fixed-fpx-15": {
+        "name": "MP4 - 15 FPS",
+        "version": "1.0"
+      },
+      "mp4-fixed-fpx-30": {
+        "name": "MP4 - 30 FPS",
+        "version": "1.0"
+      },
+      "mp4-fixed-fpx-60": {
+        "name": "MP4 - 60 FPS",
+        "version": "1.0"
+      },
+      "mp4-fixed-length-05": {
+        "name": "MP4 - Fixed Length - 00:05",
+        "version": "1.0"
+      },
+      "mp4-fixed-length-10": {
+        "name": "MP4 - Fixed Length - 00:10",
+        "version": "1.0"
+      },
+      "mp4-fixed-length-15": {
+        "name": "MP4 - Fixed Length - 00:15",
+        "version": "1.0"
+      },
+      "mp4-fixed-length-30": {
+        "name": "MP4 - Fixed Length - 00:30",
+        "version": "1.0"
+      },
+      "mp4-fixed-length-60": {
+        "name": "MP4 - Fixed Length - 01:00",
+        "version": "1.0"
+      }
+    },
+    "debug": {
+      "live-log-debug": {
+        "name": "Live Print - Debug Issues",
+        "version": "1.0"
+      },
+      "live-log-errors": {
+        "name": "Live Print - Log Errors",
+        "version": "1.0"
+      },
+      "test-log-debug": {
+        "name": "Test Mode - Debug Issues",
+        "version": "1.0"
+      },
+      "test-log-c++": {
+        "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
+        "version": "1.0"
+      },
+      "test-log-errors": {
+        "name": "Test Mode - Log Errors",
+        "version": "1.0"
+      },
+      "test-log-verbose": {
+        "name": "Test Mode - Verbose Logging",
+        "version": "1.0"
+      }
+    },
+    "camera": {
+      "dslr-immediate-download": {
+        "name": "DSLR - Download Image",
+        "version": "1.0"
+      },
+      "dslr-no-download": {
+        "name": "Webcam - Leave On SD (won't render a timelapse)",
+        "version": "1.0"
+      },
+      "dslr-deferred-download": {
+        "name": "Webcam - Deferred Download (no snapshot previews)",
+        "version": "1.0"
+      },
+      "gcode-printer-camera": {
+        "name": "Gcode Camera - Built Into Printer",
+        "version": "1.0"
+      },
+      "webcam-octopi-0.16.0": {
+        "name": "Webcam - Default OctoPi 0.16.0",
+        "version": "1.0"
+      }
     }
   }
 }

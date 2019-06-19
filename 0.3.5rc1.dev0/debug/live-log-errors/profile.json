@@ -1,0 +1,17 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key": "live-log-errors"
+  },
+  "name": "Log Errors",
+  "log_to_console": false,
+  "is_test_mode": false,
+  "enabled": false,
+  "enabled_loggers": [],
+  "log_all_errors": true,
+  "guid": "afbe12d6-0dee-4911-b77e-ee9ebfae7521",
+  "default_log_level": 10,
+  "description": "Logs only errors and exceptions.  This is the recommended live (not test mode) profile to use unless you are trying to solve some additional problem."
+}
