@@ -2,8 +2,8 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": null,
-    "key": null
+    "version": "1.0",
+    "key": "gcode-printer-camera'"
   },
   "timeout_ms": 5000,
   "apply_settings_at_startup": false,
