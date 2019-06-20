@@ -245,6 +245,10 @@
       "mp4-fixed-length-60": {
         "name": "MP4 - Fixed Length - 01:00",
         "version": "1.0"
+      },
+      "disabled": {
+        "name": "Disabled (for manual rendering)",
+        "version": "1.0"
       }
     },
     "debug": {
@@ -279,11 +283,11 @@
         "version": "1.0"
       },
       "dslr-no-download": {
-        "name": "Webcam - Leave On SD (won't render a timelapse)",
+        "name": "DSLR - Leave On SD (won't render a timelapse)",
         "version": "1.0"
       },
       "dslr-deferred-download": {
-        "name": "Webcam - Deferred Download (no snapshot previews)",
+        "name": "DSLR - Deferred Download (no snapshot previews)",
         "version": "1.0"
       },
       "gcode-printer-camera": {
