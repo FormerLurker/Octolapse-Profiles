@@ -214,15 +214,15 @@
       }
     },
     "rendering": {
-      "mp4-fixed-fpx-15": {
+      "mp4-fixed-fps-15": {
         "name": "MP4 - 15 FPS",
         "version": "1.0"
       },
-      "mp4-fixed-fpx-30": {
+      "mp4-fixed-fps-30": {
         "name": "MP4 - 30 FPS",
         "version": "1.0"
       },
-      "mp4-fixed-fpx-60": {
+      "mp4-fixed-fps-60": {
         "name": "MP4 - 60 FPS",
         "version": "1.0"
       },
