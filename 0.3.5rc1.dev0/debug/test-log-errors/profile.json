@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "test-log-errors"
+    "key_values": [
+      {
+        "name": "Test Mode - Log Errors",
+        "value": "test-log-errors"
+      }
+    ]
   },
   "name": "Test Mode - Log Errors",
   "log_to_console": false,

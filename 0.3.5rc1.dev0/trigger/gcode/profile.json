@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "gcode"
+    "key_values": [
+      {
+        "name": "Classic - Gcode",
+        "value": "gcode"
+      }
+    ]
   },
   "smart_layer_trigger_speed_threshold": 0,
   "trigger_on_retracted": "trigger_on",
@@ -26,7 +31,7 @@
   "extruder_state_requirements_enabled": false,
   "smart_layer_trigger_distance_threshold_percent": 10,
   "trigger_on_primed": "trigger_on",
-  "name": "Gcode",
+  "name": "Classic - Gcode",
   "trigger_on_deretracting": "forbidden",
   "trigger_on_retracting": "",
   "trigger_subtype": "gcode",

@@ -25,7 +25,7 @@
         "anycubic": {
           "name": "Anycubic",
           "values": {
-            "i3-mega": {
+            "i3_mega": {
               "name": "I3 Mega",
               "version": "1.0"
             }
@@ -34,7 +34,7 @@
         "crealty3d": {
           "name": "Creality3d",
           "values": {
-            "cr-10": {
+            "cr_10": {
               "name": "CR-10",
               "version": "1.0"
             }
@@ -61,7 +61,7 @@
         "lulzbot": {
           "name": "Lulzbot",
           "values": {
-            "taz-6": {
+            "taz_6": {
               "name": "Taz 6",
               "version": "1.0"
             }
@@ -70,7 +70,7 @@
         "monoprice": {
           "name": "Monoprice",
           "values": {
-            "maker-select-v2": {
+            "maker_select_v2": {
               "name": "Maker Select V2",
               "version": "1.0"
             }
@@ -108,16 +108,16 @@
         "wanhao": {
           "name": "Wanhao",
           "values": {
-            "duplicator-i3": {
+            "duplicator_i3": {
               "name": "Duplicator I3",
               "version": "1.0"
             }
           }
         },
-        "does-not-exist": {
+        "does_not_exist": {
           "name": "DOES NOT EXIST - ERROR TEST",
           "values": {
-            "does-not-exist": {
+            "does_not_exist": {
               "name": "DOES NOT EXIST - ERROR TEST",
               "version": "1.0"
             }
@@ -249,35 +249,35 @@
         }
       ],
       "values": {
-        "mp4-fixed-fps-15": {
+        "mp4_fixed_fps_15": {
           "name": "MP4 - 15 FPS",
           "version": "1.0"
         },
-        "mp4-fixed-fps-30": {
+        "mp4_fixed_fps_30": {
           "name": "MP4 - 30 FPS",
           "version": "1.0"
         },
-        "mp4-fixed-fps-60": {
+        "mp4_fixed_fps_60": {
           "name": "MP4 - 60 FPS",
           "version": "1.0"
         },
-        "mp4-fixed-length-05": {
+        "mp4_fixed_length_05": {
           "name": "MP4 - Fixed Length - 00:05",
           "version": "1.0"
         },
-        "mp4-fixed-length-10": {
+        "mp4_fixed_length_10": {
           "name": "MP4 - Fixed Length - 00:10",
           "version": "1.0"
         },
-        "mp4-fixed-length-15": {
+        "mp4_fixed_length_15": {
           "name": "MP4 - Fixed Length - 00:15",
           "version": "1.0"
         },
-        "mp4-fixed-length-30": {
+        "mp4_fixed_length_30": {
           "name": "MP4 - Fixed Length - 00:30",
           "version": "1.0"
         },
-        "mp4-fixed-length-60": {
+        "mp4_fixed_length_60": {
           "name": "MP4 - Fixed Length - 01:00",
           "version": "1.0"
         },
@@ -295,27 +295,27 @@
         }
       ],
       "values": {
-        "live-log-debug": {
+        "live_log_debug": {
           "name": "Live Print - Debug Issues",
           "version": "1.0"
         },
-        "live-log-errors": {
+        "live_log_errors": {
           "name": "Live Print - Log Errors",
           "version": "1.0"
         },
-        "test-log-debug": {
+        "test_log_debug": {
           "name": "Test Mode - Debug Issues",
           "version": "1.0"
         },
-        "test-log-c++": {
+        "test_log_c++": {
           "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
           "version": "1.0"
         },
-        "test-log-errors": {
+        "test_log_errors": {
           "name": "Test Mode - Log Errors",
           "version": "1.0"
         },
-        "test-log-verbose": {
+        "test_log_verbose": {
           "name": "Test Mode - Verbose Logging",
           "version": "1.0"
         }
@@ -329,23 +329,23 @@
         }
       ],
       "values": {
-        "dslr-immediate-download": {
+        "dslr_immediate_download": {
           "name": "DSLR - Download Image",
           "version": "1.0"
         },
-        "dslr-no-download": {
+        "dslr_no_download": {
           "name": "DSLR - Leave On SD (won't render a timelapse)",
           "version": "1.0"
         },
-        "dslr-deferred-download": {
+        "dslr_deferred_download": {
           "name": "DSLR - Deferred Download (no snapshot previews)",
           "version": "1.0"
         },
-        "gcode-printer-camera": {
+        "gcode_printer_camera": {
           "name": "Gcode Camera - Built Into Printer",
           "version": "1.0"
         },
-        "webcam-octopi-0.16.0": {
+        "webcam_octopi_0.16.0": {
           "name": "Webcam - Default OctoPi 0.16.0",
           "version": "1.0"
         }

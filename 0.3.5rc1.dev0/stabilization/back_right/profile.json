@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "back_right"
+    "key_values": [
+      {
+        "name": "Back Right",
+        "value": "back_right"
+      }
+    ]
   },
   "y_relative_path_loop": true,
   "y_relative": 99.0,

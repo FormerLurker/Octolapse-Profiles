@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "webcam-octopi-0.16.0"
+    "key_values": [
+      {
+        "name": "Webcam - Default OctoPi 0.16.0",
+        "value": "webcam-octopi-0.16.0"
+      }
+    ]
   },
   "timeout_ms": 5000,
   "apply_settings_at_startup": false,

@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "center_right"
+    "key_values": [
+      {
+        "name": "Center Right",
+        "value": "center_right"
+      }
+    ]
   },
   "y_relative_path_loop": true,
   "y_relative": 50.0,

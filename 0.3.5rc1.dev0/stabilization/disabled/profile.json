@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "disabled"
+    "key_values": [
+      {
+        "name": "Disabled",
+        "value": "disabled"
+      }
+    ]
   },
   "y_relative_path_loop": true,
   "y_relative": 50.0,

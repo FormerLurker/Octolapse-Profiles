@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "test-log-debug"
+    "key_values": [
+      {
+        "name": "Test Mode - Debug Issues",
+        "value": "test-log-debug"
+      }
+    ]
   },
   "name": "Test Mode - Debug Issues",
   "log_to_console": false,

@@ -3,7 +3,12 @@
       "is_custom": false,
       "suppress_update_notification_version": false,
       "version": "1.0",
-      "key": "disabled"
+      "key_values": [
+        {
+          "name": "Disabled",
+          "value": "disabled"
+        }
+      ]
     },
     "overlay_text_template": "",
     "overlay_text_valign": "top",

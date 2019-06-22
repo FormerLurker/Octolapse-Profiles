@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "mp4-fixed-length-05"
+    "key_values": [
+      {
+        "name": "MP4 - 30 FPS",
+        "value": "mp4_fixed_fps_30"
+      }
+    ],
   },
   "overlay_text_template": "",
   "overlay_text_valign": "top",
@@ -11,7 +16,7 @@
   "overlay_text_color": "[255, 255, 255, 128]",
   "min_fps": 2.0,
   "cleanup_after_render_complete": true,
-  "guid": "d4898ba7-8d27-4479-b7d8-34c063ae7a68",
+  "guid": "e1789a71-6d23-48ee-82eb-ed4a8fa69cb2",
   "overlay_font_path": "",
   "sync_with_timelapse": true,
   "max_fps": 120.0,
@@ -19,18 +24,18 @@
   "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
   "selected_watermark": "",
   "overlay_text_alignment": "left",
-  "description": "Generates MP4 with a fixed length of 5 seconds. Adds 1 second of pre-roll using the first frame and one second post-roll using the last frame.  Synchronizes with the default timelapse plugin.",
+  "description": "Renders MP4 at a constant 30FPS. Synchronizes with the default timelapse plugin.",
   "output_format": "mp4",
-  "fps_calculation_type": "duration",
-  "post_roll_seconds": 1,
+  "fps_calculation_type": "static",
+  "post_roll_seconds": 0,
   "bitrate": "6000k",
   "overlay_text_halign": "left",
-  "cleanup_after_render_fail": true,
-  "name": "MP4 - Fixed Length - 00:05",
+  "cleanup_after_render_fail": false,
+  "name": "MP4 - 30 FPS",
   "enabled": true,
   "enable_watermark": false,
-  "pre_roll_seconds": 1,
+  "pre_roll_seconds": 0,
   "overlay_font_size": 10,
   "run_length_seconds": 5,
-  "overlay_text_pos": "[10,10]"
+  "overlay_text_pos": "[10, 10]"
 }

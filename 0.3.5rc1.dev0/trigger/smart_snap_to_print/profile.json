@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "smart_snap_to_print"
+    "key_values": [
+      {
+        "name": "Smart - Snap To Print",
+        "value": "smart_snap_to_print"
+      }
+    ]
   },
   "smart_layer_trigger_speed_threshold": 0,
   "trigger_on_retracted": "trigger_on",

@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "smart_high_quality"
+    "key_values": [
+      {
+        "name": "Smart - High Quality",
+        "value": "smart_high_quality"
+      }
+    ]
   },
   "smart_layer_trigger_speed_threshold": 0,
   "trigger_on_retracted": "trigger_on",

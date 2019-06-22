@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "test-log-verbose"
+    "key_values": [
+      {
+        "name": "Test Mode - Verbose Logging",
+        "value": "test-log-verbose"
+      }
+    ]
   },
   "name": "Test Mode - Verbose Logging",
   "log_to_console": false,

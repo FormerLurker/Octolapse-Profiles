@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "live-log-debug"
+    "key_values": [
+      {
+        "name": "Live Print - Debug Issues",
+        "value": "live-log-debug"
+      }
+    ]
   },
   "name": "Live Print - Debug Issues",
   "log_to_console": false,

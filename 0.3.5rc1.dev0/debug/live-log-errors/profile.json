@@ -3,7 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "key": "live-log-errors"
+    "key_values": [
+      {
+        "name": "Log Errors",
+        "value": "live-log-errors"
+      }
+    ]
   },
   "name": "Log Errors",
   "log_to_console": false,

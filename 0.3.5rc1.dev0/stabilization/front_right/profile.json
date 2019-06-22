@@ -3,6 +3,12 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
+    "key_values": [
+      {
+        "name": "Front Right",
+        "value": "front_right"
+      }
+    ],
     "key": "front_right"
   },
   "y_relative_path_loop": true,
