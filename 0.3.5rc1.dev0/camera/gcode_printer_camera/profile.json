@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Gcode Camera - Built Into Printer",
-        "value": "gcode-printer-camera"
+        "value": "gcode_printer_camera"
       }
     ]
   },

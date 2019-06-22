@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Webcam - Default OctoPi 0.16.0",
-        "value": "webcam-octopi-0.16.0"
+        "value": "webcam_octopi_0.16.0"
       }
     ]
   },
