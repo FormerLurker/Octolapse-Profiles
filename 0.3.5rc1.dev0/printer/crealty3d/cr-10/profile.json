@@ -3,7 +3,7 @@
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "keys": [
+    "key_values": [
       {"name": "Creality3d", "value": "crealty3d"},
       {"name": "CR-10", "value": "cr-10"}
     ]

@@ -1,13 +1,10 @@
 {
   "automatic_configuration": {
-    "make": "dagoma",
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "other_model": null,
     "model": "neva",
-    "other_make": null,
-    "keys": [
+    "key_values": [
       {"name": "Dagoma", "value": "dagoma"},
       {"name": "Neva", "value": "neva"}
     ]

@@ -3,11 +3,7 @@
     "is_custom": false,
     "suppress_update_notification_version": null,
     "version": "1.0",
-    "other_model": "",
-    "make": "prusa",
-    "model": "mk2.5s",
-    "other_make": "",
-    "keys": [
+    "key_values": [
       {"name": "Prusa", "value": "prusa"},
       {"name": "MK2.5S", "value": "mk2.5s"}
     ]

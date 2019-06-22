@@ -1,13 +1,9 @@
 {
   "automatic_configuration": {
-    "make": "wanhao",
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "other_model": null,
-    "model": "duplicator-i3",
-    "other_make": null,
-    "keys": [
+    "key_values": [
       {"name": "Wanhao", "value": "wanhao"},
       {"name": "Duplicator I3", "value": "duplicator-i3"}
     ]

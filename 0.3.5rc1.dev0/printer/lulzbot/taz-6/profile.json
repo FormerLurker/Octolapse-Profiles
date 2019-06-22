@@ -3,11 +3,7 @@
     "is_custom": false,
     "suppress_update_notification_version": null,
     "version": "1.0",
-    "other_model": "",
-    "make": "lulzbot",
-    "model": "taz-6",
-    "other_make": "",
-    "keys": [
+    "key_values": [
       {"name": "Lulzbot", "value": "lulzbot"},
       {"name": "Taz 6", "value": "taz-6"}
     ]
