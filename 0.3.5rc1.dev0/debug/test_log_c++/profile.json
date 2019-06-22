@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
-        "value": "test-log-c++"
+        "value": "test_log_c++"
       }
     ]
   },

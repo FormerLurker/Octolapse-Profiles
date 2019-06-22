@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Test Mode - Debug Issues",
-        "value": "test-log-debug"
+        "value": "test_log_debug"
       }
     ]
   },

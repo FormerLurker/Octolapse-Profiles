@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Test Mode - Log Errors",
-        "value": "test-log-errors"
+        "value": "test_log_errors"
       }
     ]
   },

@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Log Errors",
-        "value": "live-log-errors"
+        "value": "live_log_errors"
       }
     ]
   },

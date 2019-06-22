@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Live Print - Debug Issues",
-        "value": "live-log-debug"
+        "value": "live_log_debug"
       }
     ]
   },

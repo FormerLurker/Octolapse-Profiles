@@ -6,7 +6,7 @@
     "key_values": [
       {
         "name": "Test Mode - Verbose Logging",
-        "value": "test-log-verbose"
+        "value": "test_log_verbose"
       }
     ]
   },
