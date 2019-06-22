@@ -6,7 +6,11 @@
     "other_model": "",
     "make": "prusa",
     "model": "mk2.5s",
-    "other_make": ""
+    "other_make": "",
+    "keys": [
+      {"name": "Prusa", "value": "prusa"},
+      {"name": "MK2.5S", "value": "mk2.5s"}
+    ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",

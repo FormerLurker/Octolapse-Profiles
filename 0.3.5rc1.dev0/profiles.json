@@ -83,16 +83,16 @@
               "name": "MK2",
               "version": "1.0"
             },
-            "mk2s": {
-              "name": "MK2S",
-              "version": "1.0"
-            },
             "mk2.5": {
               "name": "MK2.5",
               "version": "1.0"
             },
             "mk2.5s": {
               "name": "MK2.5S",
+              "version": "1.0"
+            },
+            "mk2s": {
+              "name": "MK2S",
               "version": "1.0"
             },
             "mk3": {

@@ -3,10 +3,10 @@
     "is_custom": false,
     "suppress_update_notification_version": null,
     "version": "1.0",
-    "other_model": "",
-    "make": "anycubic",
-    "model": "i3-mega",
-    "other_make": ""
+    "keys": [
+      {"name": "Anycubic", "value": "anycubic"},
+      {"name": "I3 Mega", "value": "i3-mega"}
+    ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",

@@ -6,7 +6,11 @@
     "other_model": "",
     "make": "irapid",
     "model": "black",
-    "other_make": ""
+    "other_make": "",
+    "keys": [
+      {"name": "Irapid", "value": "irapid"},
+      {"name": "Black", "value": "black"}
+    ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",

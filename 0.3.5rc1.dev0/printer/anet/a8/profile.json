@@ -4,8 +4,10 @@
     "suppress_update_notification_version": null,
     "version": "1.0",
     "other_model": "",
-    "make": "anet",
-    "model": "a8",
+    "keys": [
+      {"name": "Anet", "value": "anet"},
+      {"name": "A8", "value": "a8"}
+    ],
     "other_make": ""
   },
   "gocde_axis_compatibility_mode_enabled": true,

@@ -1,12 +1,12 @@
 {
   "automatic_configuration": {
-    "make": "crealty3d",
     "is_custom": false,
     "suppress_update_notification_version": false,
     "version": "1.0",
-    "other_model": null,
-    "model": "cr-10",
-    "other_make": null
+    "keys": [
+      {"name": "Creality3d", "value": "crealty3d"},
+      {"name": "CR-10", "value": "cr-10"}
+    ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",

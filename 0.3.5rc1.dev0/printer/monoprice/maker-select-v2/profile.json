@@ -6,7 +6,11 @@
     "other_model": "",
     "make": "monoprice",
     "model": "maker-select-v2",
-    "other_make": ""
+    "other_make": "",
+    "keys": [
+      {"name": "Monoprice", "value": "monoprice"},
+      {"name": "Maker Select V2", "value": "maker-select-v2"}
+    ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
