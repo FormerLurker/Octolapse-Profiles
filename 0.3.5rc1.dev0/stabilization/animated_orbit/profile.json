@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Animation - Orbit",
+        "name": "Animated - Orbit",
         "value": "animated_orbit"
       }
     ]
@@ -31,7 +31,7 @@
   "x_relative": 50.0,
   "x_fixed_path_invert_loop": true,
   "y_relative_path_invert_loop": false,
-  "name": "Animation - Orbit",
+  "name": "Animated - Orbit",
   "y_fixed_path": "0",
   "y_relative_print": 50.0,
   "y_relative_path":
