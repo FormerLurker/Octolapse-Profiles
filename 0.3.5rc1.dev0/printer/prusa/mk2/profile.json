@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {"name": "Prusa", "value": "prusa"},
-      {"name": "MI2", "value": "mk2"}
+      {"name": "MK2", "value": "mk2"}
     ]
   },
   "gocde_axis_compatibility_mode_enabled": true,
