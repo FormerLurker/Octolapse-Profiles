@@ -10,7 +10,7 @@
           "value": "a8"
         }
       ],
-      "is_custom": true,
+      "is_custom": false,
       "suppress_update_notification_version": null,
       "version": "1.0"
     },
