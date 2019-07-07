@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Timer - Every 1:00",
+        "name": "Classic - Every 1m 00s",
         "value": "timer_60_sec"
       }
     ],

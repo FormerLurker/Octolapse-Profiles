@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Timer - Every 0:30",
+        "name": "Classic - Timer 0m 30s",
         "value": "timer_30_sec"
       }
     ]

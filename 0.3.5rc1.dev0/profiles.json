@@ -236,7 +236,7 @@
           "version": "1.0"
         },
         "timer_60_sec": {
-          "name": "Classic - Every 1m 00s",
+          "name": "Classic - Timer 1m 00s",
           "version": "1.0"
         }
       }
