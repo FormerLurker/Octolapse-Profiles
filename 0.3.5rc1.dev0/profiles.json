@@ -200,7 +200,7 @@
           "version": "1.0"
         },
         "layer": {
-          "name": "Classic - Layer",
+          "name": "Classic - Every Layer",
           "version": "1.0"
         },
         "layer_0.5mm": {
@@ -300,7 +300,7 @@
           "version": "1.0"
         },
         "live_log_errors": {
-          "name": "Live Print - Log Errors",
+          "name": "Live Print",
           "version": "1.0"
         },
         "test_log_debug": {
@@ -312,7 +312,7 @@
           "version": "1.0"
         },
         "test_log_errors": {
-          "name": "Test Mode - Log Errors",
+          "name": "Test Mode",
           "version": "1.0"
         },
         "test_log_verbose": {

@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Log Errors",
+        "name": "Live Print",
         "value": "live_log_errors"
       }
     ]

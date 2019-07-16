@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Test Mode - Log Errors",
+        "name": "Test Mode",
         "value": "test_log_errors"
       }
     ]
