@@ -265,6 +265,10 @@
           "name": "MP4 - Fixed Length - 00:05",
           "version": "1.0"
         },
+        "gif_fixed_length_05": {
+          "name": "GIF - Fixed Length - 00:05",
+          "version": "1.0"
+        },
         "mp4_fixed_length_10": {
           "name": "MP4 - Fixed Length - 00:10",
           "version": "1.0"
