@@ -24,7 +24,7 @@
     "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
     "selected_watermark": "",
     "overlay_text_alignment": "left",
-    "description": "Generates MP4 with a fixed length of 30 seconds. Synchronizes with the default timelapse plugin.",
+    "description": "Generates MP4 with a fixed length of 30 seconds. Adds 2 seconds of pre-roll using the first frame and 2 seconds of post-roll using the last frame.",
     "output_format": "mp4",
     "fps_calculation_type": "duration",
     "post_roll_seconds": 2,

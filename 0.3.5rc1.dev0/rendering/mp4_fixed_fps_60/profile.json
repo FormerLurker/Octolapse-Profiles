@@ -24,7 +24,7 @@
   "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
   "selected_watermark": "",
   "overlay_text_alignment": "left",
-  "description": "Renders MP4 at a constant 60FPS. Synchronizes with the default timelapse plugin.",
+  "description": "Renders MP4 at a constant 60FPS. Adds 2 seconds of pre-roll using the first frame and 2 seconds of post-roll using the last frame.",
   "output_format": "mp4",
   "fps_calculation_type": "static",
   "post_roll_seconds": 2,
