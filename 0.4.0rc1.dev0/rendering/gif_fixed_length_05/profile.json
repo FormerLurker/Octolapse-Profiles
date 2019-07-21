@@ -13,12 +13,7 @@
   "overlay_text_template": "",
   "overlay_text_valign": "top",
   "thread_count": 1,
-  "overlay_text_color": [
-    255,
-    255,
-    255,
-    0.5019607843137255
-  ],
+  "overlay_text_color": [255, 255, 255, 255],
   "min_fps": 2.0,
   "cleanup_after_render_complete": true,
   "guid": "329ed271-63a6-4fbc-9e2b-d7b9eec60708",
