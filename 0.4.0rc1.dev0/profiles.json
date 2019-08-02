@@ -90,6 +90,10 @@
         "monoprice": {
           "name": "Monoprice",
           "values": {
+            "maker_select_plus": {
+              "name": "Maker Select Plus",
+              "version": "0.1"
+            },
             "maker_select_v2": {
               "name": "Maker Select V2",
               "version": "1.0"
