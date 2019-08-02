@@ -2,30 +2,30 @@
   "automatic_configuration": {
     "key_values": [
       {
-        "name": "Prusa",
-        "value": "prusa"
+        "name": "Creality3d",
+        "value": "creality3d"
       },
       {
-        "name": "MK3",
-        "value": "mk3"
+        "name": "CR-10 Mini",
+        "value": "cr_10_mini"
       }
     ],
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0"
+    "version": 0.1
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
-  "height": 0.0,
-  "custom_bounding_box": true,
-  "restrict_snapshot_area": true,
+  "height": 200.0,
+  "custom_bounding_box": false,
+  "restrict_snapshot_area": false,
   "snapshot_min_z": 0.0,
   "snapshot_min_x": 0.0,
-  "guid": "e375607b-9f33-4d82-b5a1-cf20ebf028b3",
-  "description": "Genuine Prusa Mk3 - Version 1.0",
+  "guid": "c0970985-8d37-49ec-9610-48d0b1727b41",
+  "description": "This is a beta profile, so use at your own risk.",
   "snapshot_min_y": 0.0,
   "home_z": null,
-  "min_y": -3.0,
+  "min_y": 0.0,
   "home_x": null,
   "home_y": null,
   "override_octoprint_profile_settings": true,
@@ -33,21 +33,21 @@
   "min_x": 0.0,
   "default_firmware_retractions": false,
   "diameter_xy": 0.0,
-  "width": 0.0,
-  "max_z": 200.0,
-  "max_x": 250.0,
-  "max_y": 210.0,
-  "has_been_saved_by_user": true,
+  "width": 300.0,
+  "max_z": 0.0,
+  "max_x": 0.0,
+  "max_y": 0.0,
+  "has_been_saved_by_user": false,
   "snapshot_diameter_xy": 0.0,
   "e_axis_default_mode": "absolute",
   "slicer_type": "automatic",
   "auto_position_detection_commands": "",
   "g90_influences_extruder": "false",
-  "priming_height": 0.4,
+  "priming_height": 0.75,
   "abort_out_of_bounds": true,
   "units_default": "millimeters",
   "default_firmware_retractions_zhop": false,
-  "axis_speed_display_units": "mm-sec",
+  "axis_speed_display_units": "mm-min",
   "gcode_generation_settings": {
     "vase_mode": null,
     "retraction_speed": null,
@@ -61,12 +61,12 @@
     "layer_height": null,
     "retraction_length": null
   },
-  "name": "Prusa - MK3",
+  "name": "Creality3D - CR-10 Mini",
   "min_z": 0.0,
   "bed_type": "rectangular",
   "minimum_layer_height": 0.05,
   "snapshot_command": "snap",
-  "depth": 0.0,
+  "depth": 220.0,
   "slicers": {
     "simplify_3d": {
       "extruder_use_retract": null,
@@ -128,9 +128,9 @@
       "retraction_hop_enabled": null
     }
   },
-  "snapshot_max_x": 250.0,
-  "snapshot_max_y": 210.0,
-  "snapshot_max_z": 200.0,
+  "snapshot_max_x": 0.0,
+  "snapshot_max_y": 0.0,
+  "snapshot_max_z": 0.0,
   "xyz_axes_default_mode": "absolute",
   "auto_detect_position": true,
   "origin_type": "front_left"

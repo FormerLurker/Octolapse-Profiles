@@ -61,7 +61,7 @@
     "layer_height": null,
     "retraction_length": null
   },
-  "name": "Anycubic I3 Mega",
+  "name": "Anycubic - I3 Mega",
   "min_z": 0.0,
   "bed_type": "rectangular",
   "minimum_layer_height": 0.05,

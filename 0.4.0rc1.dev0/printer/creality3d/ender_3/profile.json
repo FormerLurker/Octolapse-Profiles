@@ -12,7 +12,7 @@
     ],
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": 1.0
+    "version": 0.1
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",

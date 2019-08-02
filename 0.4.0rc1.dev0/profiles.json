@@ -40,7 +40,11 @@
             },
             "cr_10s": {
               "name": "CR-10S",
-              "version": "1.0"
+              "version": "0.1"
+            },
+            "cr_10_mini": {
+              "name": "CR-10 Mini",
+              "version": "0.1"
             },
             "ender_3": {
               "name": "Ender 3",

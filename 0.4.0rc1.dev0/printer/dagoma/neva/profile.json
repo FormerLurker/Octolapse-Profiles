@@ -61,7 +61,7 @@
     "layer_height": null,
     "retraction_length": null
   },
-  "name": "Dagoma Neva",
+  "name": "Dagoma - Neva",
   "min_z": 0.0,
   "bed_type": "circular",
   "minimum_layer_height": 0.05,
