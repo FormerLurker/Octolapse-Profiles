@@ -101,7 +101,7 @@
             "mp_select_mini_v2": {
               "name": "MP Select Mini V2",
               "version": "0.1"
-            },
+            }
           }
         },
         "prusa": {
