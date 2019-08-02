@@ -6,13 +6,13 @@
         "value": "wanhao"
       },
       {
-        "name": "Duplicator i3",
-        "value": "duplicator_i3"
+        "name": "Duplicator i3 Plus",
+        "value": "duplicator_i3_plus"
       }
     ],
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0"
+    "version": 0.1
   },
   "gocde_axis_compatibility_mode_enabled": true,
   "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
@@ -21,8 +21,8 @@
   "restrict_snapshot_area": false,
   "snapshot_min_z": 0.0,
   "snapshot_min_x": 0.0,
-  "guid": "bb67a33a-2cc5-4a8c-9991-41a22862b0da",
-  "description": "Wanhao - Duplicator i3",
+  "guid": "cf235625-0eba-4b05-9c79-43f25a0efbf2",
+  "description": "This is a beta profile, use at your own risk.",
   "snapshot_min_y": 0.0,
   "home_z": null,
   "min_y": 0.0,
@@ -34,16 +34,16 @@
   "default_firmware_retractions": false,
   "diameter_xy": 0.0,
   "width": 200.0,
-  "max_z": 180.0,
-  "max_x": 200.0,
-  "max_y": 200.0,
-  "has_been_saved_by_user": true,
+  "max_z": 0.0,
+  "max_x": 0.0,
+  "max_y": 0.0,
+  "has_been_saved_by_user": false,
   "snapshot_diameter_xy": 0.0,
   "e_axis_default_mode": "absolute",
   "slicer_type": "automatic",
   "auto_position_detection_commands": "",
   "g90_influences_extruder": "false",
-  "priming_height": 0.5,
+  "priming_height": 0.75,
   "abort_out_of_bounds": true,
   "units_default": "millimeters",
   "default_firmware_retractions_zhop": false,
@@ -61,7 +61,7 @@
     "layer_height": null,
     "retraction_length": null
   },
-  "name": "Wanhao Duplicator i3",
+  "name": "Wanhao - Duplicator i3 Plus",
   "min_z": 0.0,
   "bed_type": "rectangular",
   "minimum_layer_height": 0.05,

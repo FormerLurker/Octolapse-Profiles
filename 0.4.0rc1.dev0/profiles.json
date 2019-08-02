@@ -137,8 +137,12 @@
           "name": "Wanhao",
           "values": {
             "duplicator_i3": {
-              "name": "Duplicator I3",
+              "name": "Duplicator i3",
               "version": "1.0"
+            },
+            "duplicator_i3_plus": {
+              "name": "Duplicator i3 Plus",
+              "version": "0.1"
             }
           }
         },
