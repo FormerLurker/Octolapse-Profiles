@@ -42,13 +42,21 @@
               "name": "CR-10S",
               "version": "0.1"
             },
+            "cr_10s_pro": {
+              "name": "CR-10S Pro",
+              "version": "0.1"
+            },
             "cr_10_mini": {
               "name": "CR-10 Mini",
               "version": "0.1"
             },
             "ender_3": {
               "name": "Ender 3",
-              "version": "1.0"
+              "version": "0.1"
+            },
+            "ender_3_pro": {
+              "name": "Ender 3 Pro",
+              "version": "0.1"
             }
           }
         },
@@ -85,7 +93,11 @@
             "maker_select_v2": {
               "name": "Maker Select V2",
               "version": "1.0"
-            }
+            },
+            "mp_select_mini_v2": {
+              "name": "MP Select Mini V2",
+              "version": "0.1"
+            },
           }
         },
         "prusa": {
