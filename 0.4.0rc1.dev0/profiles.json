@@ -87,6 +87,19 @@
             }
           }
         },
+        "mendelmax": {
+          "name": "MendelMax",
+            "values": {
+              "200x200x170_direct_drive": {
+                "name": "200x200x170 - Direct Drive",
+                "version": "0.1"
+              },
+              "200x200x200_bowden": {
+                "name": "200x200x200 - Bowden",
+                "version": "0.1"
+              }
+            }
+        },
         "monoprice": {
           "name": "Monoprice",
           "values": {
