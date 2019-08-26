@@ -1,0 +1,22 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Test Mode",
+        "value": "test_log_errors"
+      }
+    ]
+  },
+  "name": "Test Mode - Log Errors",
+  "log_to_console": false,
+  "is_test_mode": true,
+  "enabled": false,
+  "enabled_loggers": [],
+  "log_all_errors": true,
+  "guid": "3811da8f-182d-44bf-8fcb-95614e4daf1b",
+  "default_log_level": 10,
+  "description": "This test mode profile is useful for testing Octolapse without waiting for warm-up or wasting filament.  Test mode will prevent extrusion, bed and extruder heating, fan controls, and a few other commands.  Only errors are logged.  This profile is recommended for your first Octolapse, or for performing a pre-flight check for a new model."
+}

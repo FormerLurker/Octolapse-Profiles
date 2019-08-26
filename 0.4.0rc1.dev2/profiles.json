@@ -1,0 +1,396 @@
+{
+  "plugin_version": "0.4.0rc1.dev0",
+  "profiles": {
+    "printer": {
+      "keys": [
+        {
+          "name": "Make",
+          "value": "make"
+        },
+        {
+          "name": "Model",
+          "value": "model"
+        }
+      ],
+      "values": {
+        "anet": {
+          "name": "Anet",
+          "values": {
+            "a8": {
+              "name": "A8",
+              "version": "1.0"
+            }
+          }
+        },
+        "anycubic": {
+          "name": "Anycubic",
+          "values": {
+            "i3_mega": {
+              "name": "I3 Mega",
+              "version": "1.0"
+            }
+          }
+        },
+        "creality3d": {
+          "name": "Creality3d",
+          "values": {
+            "cr_10": {
+              "name": "CR-10",
+              "version": "1.0"
+            },
+            "cr_10s": {
+              "name": "CR-10S",
+              "version": "0.1"
+            },
+            "cr_10s_pro": {
+              "name": "CR-10S Pro",
+              "version": "0.1"
+            },
+            "cr_10_mini": {
+              "name": "CR-10 Mini",
+              "version": "0.1"
+            },
+            "ender_3": {
+              "name": "Ender 3",
+              "version": "0.1"
+            },
+            "ender_3_pro": {
+              "name": "Ender 3 Pro",
+              "version": "0.1"
+            }
+          }
+        },
+        "dagoma": {
+          "name": "Dagoma",
+          "values": {
+            "neva": {
+              "name": "Neva",
+              "version": "1.0"
+            }
+          }
+        },
+        "irapid": {
+          "name": "Irapid",
+          "values": {
+            "black": {
+              "name": "Black",
+              "version": "1.0"
+            }
+          }
+        },
+        "lulzbot": {
+          "name": "Lulzbot",
+          "values": {
+            "taz_6": {
+              "name": "Taz 6",
+              "version": "1.0"
+            }
+          }
+        },
+        "mendelmax": {
+          "name": "MendelMax",
+            "values": {
+              "200x200x170_direct_drive": {
+                "name": "200x200x170 - Direct Drive",
+                "version": "0.1"
+              },
+              "200x200x200_bowden": {
+                "name": "200x200x200 - Bowden",
+                "version": "0.1"
+              }
+            }
+        },
+        "monoprice": {
+          "name": "Monoprice",
+          "values": {
+            "maker_select_plus": {
+              "name": "Maker Select Plus",
+              "version": "0.1"
+            },
+            "maker_select_v2": {
+              "name": "Maker Select V2",
+              "version": "1.0"
+            },
+            "mp_select_mini_v2": {
+              "name": "MP Select Mini V2",
+              "version": "0.1"
+            }
+          }
+        },
+        "prusa": {
+          "name": "Prusa",
+          "values": {
+            "mk2": {
+              "name": "MK2",
+              "version": "1.0"
+            },
+            "mk2.5": {
+              "name": "MK2.5",
+              "version": "1.0"
+            },
+            "mk2.5s": {
+              "name": "MK2.5S",
+              "version": "1.0"
+            },
+            "mk2s": {
+              "name": "MK2S",
+              "version": "1.0"
+            },
+            "mk3": {
+              "name": "MK3",
+              "version": "1.0"
+            },
+            "mk3s": {
+              "name": "MK3S",
+              "version": "1.0"
+            }
+          }
+        },
+        "wanhao": {
+          "name": "Wanhao",
+          "values": {
+            "duplicator_i3": {
+              "name": "Duplicator i3",
+              "version": "1.0"
+            },
+            "duplicator_i3_plus": {
+              "name": "Duplicator i3 Plus",
+              "version": "0.1"
+            }
+          }
+        },
+        "does_not_exist": {
+          "name": "DOES NOT EXIST - ERROR TEST",
+          "values": {
+            "does_not_exist": {
+              "name": "DOES NOT EXIST - ERROR TEST",
+              "version": "1.0"
+            }
+          }
+        }
+      }
+    },
+    "stabilization": {
+      "keys": [
+        {
+          "name": "Profile to Import",
+          "value": "server_profile"
+        }
+      ],
+      "values": {
+        "animated_orbit": {
+          "name": "Animated - Orbit",
+          "version": "1.0"
+        },
+        "animated_printing": {
+          "name": "Animated - Printing",
+          "version": "1.0"
+        },
+        "back_center": {
+          "name": "Back Center",
+          "version": "1.0"
+        },
+        "back_left": {
+          "name": "Back Left",
+          "version": "1.0"
+        },
+        "back_right": {
+          "name": "Back Right",
+          "version": "1.0"
+        },
+        "center_left": {
+          "name": "Center Left",
+          "version": "1.0"
+        },
+        "center_right": {
+          "name": "Center Right",
+          "version": "1.0"
+        },
+        "centered": {
+          "name": "Centered",
+          "version": "1.0"
+        },
+        "disabled": {
+          "name": "Disabled",
+          "version": "1.0"
+        },
+        "front_center": {
+          "name": "Front Center",
+          "version": "1.0"
+        },
+        "front_left": {
+          "name": "Front Left",
+          "version": "1.0"
+        },
+        "front_right": {
+          "name": "Front Right",
+          "version": "1.0"
+        },
+        "does_not_exist": {
+          "name": "Does not exist - error test",
+          "version": "1.0"
+        }
+      }
+    },
+    "trigger": {
+      "keys": [
+        {
+          "name": "Profile to Import",
+          "value": "server_profile"
+        }
+      ],
+      "values": {
+        "gcode": {
+          "name": "Classic - Gcode",
+          "version": "1.0"
+        },
+        "layer": {
+          "name": "Classic - Every Layer",
+          "version": "1.0"
+        },
+        "layer_0.5mm": {
+          "name": "Classic - Layer 0.5mm",
+          "version": "1.0"
+        },
+        "smart_compatibility": {
+          "name": "Smart - Compatibility",
+          "version": "1.0"
+        },
+        "smart_fast": {
+          "name": "Smart - Fast (low quality)",
+          "version": "1.0"
+        },
+        "smart_high_quality": {
+          "name": "Smart - High Quality",
+          "version": "1.0"
+        },
+        "smart_snap_to_print": {
+          "name": "Smart - Snap To Print",
+          "version": "1.0"
+        },
+        "timer_30_sec": {
+          "name": "Classic - Timer 0m 30s",
+          "version": "1.0"
+        },
+        "timer_60_sec": {
+          "name": "Classic - Timer 1m 00s",
+          "version": "1.0"
+        }
+      }
+    },
+    "rendering": {
+      "keys": [
+        {
+          "name": "Profile to Import",
+          "value": "server_profile"
+        }
+      ],
+      "values": {
+        "mp4_fixed_fps_15": {
+          "name": "MP4 - 15 FPS",
+          "version": "1.0"
+        },
+        "mp4_fixed_fps_30": {
+          "name": "MP4 - 30 FPS",
+          "version": "1.0"
+        },
+        "mp4_fixed_fps_60": {
+          "name": "MP4 - 60 FPS",
+          "version": "1.0"
+        },
+        "mp4_fixed_length_05": {
+          "name": "MP4 - Fixed Length - 00:05",
+          "version": "1.0"
+        },
+        "gif_fixed_length_05": {
+          "name": "GIF - Fixed Length - 00:05",
+          "version": "1.0"
+        },
+        "mp4_fixed_length_10": {
+          "name": "MP4 - Fixed Length - 00:10",
+          "version": "1.0"
+        },
+        "mp4_fixed_length_15": {
+          "name": "MP4 - Fixed Length - 00:15",
+          "version": "1.0"
+        },
+        "mp4_fixed_length_30": {
+          "name": "MP4 - Fixed Length - 00:30",
+          "version": "1.0"
+        },
+        "mp4_fixed_length_60": {
+          "name": "MP4 - Fixed Length - 01:00",
+          "version": "1.0"
+        },
+        "disabled": {
+          "name": "Disabled (for manual rendering)",
+          "version": "1.0"
+        }
+      }
+    },
+    "debug": {
+      "keys": [
+        {
+          "name": "Profile to Import",
+          "value": "server_profile"
+        }
+      ],
+      "values": {
+        "live_log_debug": {
+          "name": "Live Print - Debug Issues",
+          "version": "1.0"
+        },
+        "live_log_errors": {
+          "name": "Live Print",
+          "version": "1.0"
+        },
+        "test_log_debug": {
+          "name": "Test Mode - Debug Issues",
+          "version": "1.0"
+        },
+        "test_log_c++": {
+          "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
+          "version": "1.0"
+        },
+        "test_log_errors": {
+          "name": "Test Mode",
+          "version": "1.0"
+        },
+        "test_log_verbose": {
+          "name": "Test Mode - Verbose Logging",
+          "version": "1.0"
+        }
+      }
+    },
+    "camera": {
+      "keys": [
+        {
+          "name": "Profile to Import",
+          "value": "server_profile"
+        }
+      ],
+      "values": {
+        "dslr_immediate_download": {
+          "name": "DSLR - Download Image",
+          "version": "1.0"
+        },
+        "dslr_no_download": {
+          "name": "DSLR - Leave On SD (won't render a timelapse)",
+          "version": "1.0"
+        },
+        "dslr_deferred_download": {
+          "name": "DSLR - Deferred Download (no snapshot previews)",
+          "version": "1.0"
+        },
+        "gcode_printer_camera": {
+          "name": "Gcode Camera - Built Into Printer",
+          "version": "1.0"
+        },
+        "webcam_octopi_0.16.0": {
+          "name": "Webcam - Default OctoPi 0.16.0",
+          "version": "1.0"
+        }
+      }
+    }
+  }
+}

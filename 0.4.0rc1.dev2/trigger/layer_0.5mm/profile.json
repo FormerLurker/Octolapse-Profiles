@@ -1,0 +1,40 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Classic - Layer 0.5mm",
+        "value": "layer_0.5mm"
+      }
+    ]
+  },
+  "smart_layer_trigger_speed_threshold": 0,
+  "trigger_on_retracted": "trigger_on",
+  "layer_trigger_height": 0.5,
+  "guid": "e93e644a-cc3f-42bc-81ad-c1c87ef92ad1",
+  "smart_layer_trigger_type": 2,
+  "trigger_type": "real-time",
+  "timer_trigger_seconds": 30,
+  "position_restrictions": [],
+  "trigger_on_retracting_start": "",
+  "smart_layer_snap_to_print": false,
+  "require_zhop": false,
+  "description": "This is the classic, real-time layer trigger that will take snapshots at most once every 0.5mm.  This can be used to reduce snapshot time for very tall prints or with very low layer heights.  Triggers as soon as possible after a layer change.  Depending on the quality settings, the snapshot might not be taken exactly on the layer change, and it's possible that snapshots can be missed on some layers.",
+  "trigger_on_extruding": "trigger_on",
+  "is_default": false,
+  "trigger_on_extruding_start": "trigger_on",
+  "trigger_on_partially_retracted": "forbidden",
+  "position_restrictions_enabled": false,
+  "smart_layer_disable_z_lift": true,
+  "extruder_state_requirements_enabled": true,
+  "smart_layer_trigger_distance_threshold_percent": 10,
+  "trigger_on_primed": "trigger_on",
+  "name": "Classic - Every 0.5mm",
+  "trigger_on_deretracting": "forbidden",
+  "trigger_on_retracting": "",
+  "trigger_subtype": "layer",
+  "trigger_on_deretracted": "forbidden",
+  "trigger_on_deretracting_start": ""
+}

@@ -1,0 +1,95 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Test Mode - Debug Issues",
+        "value": "test_log_debug"
+      }
+    ]
+  },
+  "name": "Test Mode - Debug Issues",
+  "log_to_console": false,
+  "is_test_mode": true,
+  "enabled": true,
+  "enabled_loggers": [
+    {
+      "log_level": 10,
+      "name": "octolapse.stabilization_preprocessing"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.__init__"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.camera"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode_parser"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode_position"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode_preprocessing"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.position"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.render"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.settings"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.settings_migration"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.snapshot"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.snapshot_plan"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.timelapse"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.trigger"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.utility"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.messenger_worker"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.settings_external"
+    }
+  ],
+  "log_all_errors": true,
+  "guid": "072f506e-3e5e-4e84-922b-fb4e01690398",
+  "default_log_level": 10,
+  "description": "This test mode profile is useful for debugging issues during a print without waiting for warm-up or wasting filament.  Test mode will prevent extrusion, bed and extruder heating, fan controls, and a few other commands.  Logs all but verbose messages.  This will create a very large log file that can affect performance, so only use this when necessary.  This is useful for debugging issues, or for submitting error reports in the github repository."
+}

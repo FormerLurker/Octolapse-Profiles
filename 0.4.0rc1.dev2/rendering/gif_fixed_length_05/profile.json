@@ -1,0 +1,41 @@
+{
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "GIF - Fixed Length - 00:05",
+        "value": "gif_fixed_length_05"
+      }
+    ],
+    "is_custom": true,
+    "suppress_update_notification_version": false,
+    "version": "1.0"
+  },
+  "overlay_text_template": "",
+  "overlay_text_valign": "top",
+  "thread_count": 1,
+  "overlay_text_color": [255, 255, 255, 1],
+  "min_fps": 2.0,
+  "cleanup_after_render_complete": true,
+  "guid": "329ed271-63a6-4fbc-9e2b-d7b9eec60708",
+  "overlay_font_path": "",
+  "sync_with_timelapse": true,
+  "max_fps": 120.0,
+  "fps": 30,
+  "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
+  "selected_watermark": "",
+  "overlay_text_alignment": "left",
+  "description": "Generates a GIF with a fixed length of 5 seconds. Adds 2 seconds of pre-roll using the first frame and 2 seconds of post-roll using the last frame.",
+  "output_format": "gif",
+  "fps_calculation_type": "duration",
+  "post_roll_seconds": 2,
+  "bitrate": "10000k",
+  "overlay_text_halign": "left",
+  "cleanup_after_render_fail": true,
+  "name": "GIF - Fixed Length - 00:05",
+  "enabled": true,
+  "enable_watermark": false,
+  "pre_roll_seconds": 2,
+  "overlay_font_size": 10,
+  "run_length_seconds": 5,
+  "overlay_text_pos": "[0,0]"
+}
