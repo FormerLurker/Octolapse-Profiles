@@ -268,6 +268,14 @@
           "name": "Smart - Snap To Print",
           "version": "1.0"
         },
+        "smart_snap_to_print_smooth": {
+          "name": "Smart - Snap To Print - Smooth",
+          "version": "1.0"
+        },
+        "smart_snap_to_print_high_quality": {
+          "name": "Smart - Snap To Print - High Quality",
+          "version": "1.0"
+        },
         "timer_30_sec": {
           "name": "Classic - Timer 0m 30s",
           "version": "1.0"

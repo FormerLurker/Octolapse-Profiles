@@ -5,8 +5,8 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Smart - Snap To Print",
-        "value": "smart_snap_to_print"
+        "name": "Smart - Snap To Print - High Quality",
+        "value": "smart_snap_to_print_high_quality"
       }
     ]
   },
@@ -15,7 +15,7 @@
   "guid": "20fd8385-d31a-4e88-a280-b07a9c436245",
   "smart_layer_trigger_type": 0,
   "smart_layer_snap_to_print_smooth": false,
-  "smart_layer_snap_to_print_high_quality": false,
+  "smart_layer_snap_to_print_high_quality": true,
   "trigger_type": "smart-layer",
   "timer_trigger_seconds": 30,
   "position_restrictions": [],
