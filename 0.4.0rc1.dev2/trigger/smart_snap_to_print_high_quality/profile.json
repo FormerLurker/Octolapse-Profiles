@@ -30,7 +30,7 @@
   "smart_layer_disable_z_lift": true,
   "extruder_state_requirements_enabled": true,
   "trigger_on_primed": "trigger_on",
-  "name": "Smart - Snap To Print",
+  "name": "Smart - Snap To Print - High Quality",
   "trigger_on_deretracting": "forbidden",
   "trigger_on_retracting": "",
   "trigger_subtype": "layer",
