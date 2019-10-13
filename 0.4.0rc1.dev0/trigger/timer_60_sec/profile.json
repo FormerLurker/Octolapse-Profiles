@@ -8,8 +8,7 @@
         "name": "Classic - Every 1m 00s",
         "value": "timer_60_sec"
       }
-    ],
-    "key": "timer_60_sec"
+    ]
   },
   "smart_layer_trigger_speed_threshold": 0,
   "trigger_on_retracted": "trigger_on",
