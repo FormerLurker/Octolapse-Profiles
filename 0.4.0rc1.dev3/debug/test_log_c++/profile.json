@@ -1,0 +1,43 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
+        "value": "test_log_c++"
+      }
+    ]
+  },
+  "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
+  "log_to_console": false,
+  "is_test_mode": true,
+  "enabled": true,
+  "enabled_loggers": [
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.snapshot_plan"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_parser"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_position"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_preprocessing"
+    }
+  ],
+  "log_all_errors": true,
+  "guid": "00134550-8ba6-4f31-9fd7-3dcbacbdd8d9",
+  "default_log_level": 10,
+  "description": "This test mode profile is useful for debugging problems parsing gcode, tracking the printer's position and state, or preprocessing gcode to create snapshot plans using the new smart layer trigger.  This profile will create very large log files and will make preprocessing VERY VERY slow, so use this only when necessary to solve a specific issue."
+}

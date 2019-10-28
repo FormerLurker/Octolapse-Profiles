@@ -1,0 +1,39 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Smart - High Quality",
+        "value": "smart_high_quality"
+      }
+    ]
+  },
+  "trigger_on_retracted": "trigger_on",
+  "layer_trigger_height": 0.0,
+  "guid": "f8e5e1a2-a54c-489b-961b-2530648e1625",
+  "smart_layer_trigger_type": 3,
+  "smart_layer_snap_to_print_smooth": false,
+  "smart_layer_snap_to_print_high_quality": false,
+  "trigger_type": "smart-layer",
+  "timer_trigger_seconds": 30,
+  "position_restrictions": [],
+  "trigger_on_retracting_start": "",
+  "require_zhop": false,
+  "description": "Takes a snapshot on every layer with an emphasis on quality.  It attempts to reduce the travel distance as much as possible, but only if substantial travel savings are detected.  This trigger will not allow snapshots during an extrusion.  This trigger will not work with vase mode prints.",
+  "trigger_on_extruding": "trigger_on",
+  "is_default": false,
+  "trigger_on_extruding_start": "trigger_on",
+  "trigger_on_partially_retracted": "forbidden",
+  "position_restrictions_enabled": false,
+  "smart_layer_disable_z_lift": true,
+  "extruder_state_requirements_enabled": true,
+  "trigger_on_primed": "trigger_on",
+  "name": "Smart - High Quality",
+  "trigger_on_deretracting": "forbidden",
+  "trigger_on_retracting": "",
+  "trigger_subtype": "layer",
+  "trigger_on_deretracted": "forbidden",
+  "trigger_on_deretracting_start": ""
+}

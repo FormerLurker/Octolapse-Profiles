@@ -1,0 +1,41 @@
+{
+    "automatic_configuration": {
+      "is_custom": false,
+      "suppress_update_notification_version": false,
+      "version": "1.0",
+      "key_values": [
+        {
+          "name": "MP4 - Fixed Length - 01:00",
+          "value": "mp4_fixed_length_60"
+        }
+      ]
+    },
+    "overlay_text_template": "",
+    "overlay_text_valign": "top",
+    "thread_count": 1,
+    "overlay_text_color": [255, 255, 255, 1],
+    "min_fps": 2.0,
+    "cleanup_after_render_complete": true,
+    "guid": "d5f8d9e6-0a0f-4872-b41c-cdf101418e3c",
+    "overlay_font_path": "",
+    "sync_with_timelapse": true,
+    "max_fps": 120.0,
+    "fps": 30,
+    "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
+    "selected_watermark": "",
+    "overlay_text_alignment": "left",
+    "description": "Generates an MP4 with a fixed length of 60 seconds. Adds 2 seconds of pre-roll using the first frame and 2 seconds of post-roll using the last frame.",
+    "output_format": "mp4",
+    "fps_calculation_type": "duration",
+    "post_roll_seconds": 2,
+    "bitrate": "10000k",
+    "overlay_text_halign": "left",
+    "cleanup_after_render_fail": false,
+    "name": "MP4 - Fixed Length - 01:00",
+    "enabled": true,
+    "enable_watermark": false,
+    "pre_roll_seconds": 2,
+    "overlay_font_size": 10,
+    "run_length_seconds": 60,
+    "overlay_text_pos": "[10, 10]"
+  }

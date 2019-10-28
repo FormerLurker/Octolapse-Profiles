@@ -1,0 +1,37 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Back Center",
+        "value": "back_center"
+      }
+    ]
+  },
+  "y_relative_path_loop": true,
+  "y_relative": 99.0,
+  "x_relative_path": "100.0",
+  "guid": "40b1aeba-af5c-4042-88d6-c571412e3fcf",
+  "y_fixed_path_loop": true,
+  "x_relative_path_invert_loop": true,
+  "x_type": "relative",
+  "x_relative_path_loop": true,
+  "x_fixed_path": "0",
+  "y_type": "relative",
+  "y_fixed_coordinate": 0.0,
+  "x_fixed_coordinate": 0.0,
+  "y_fixed_path_invert_loop": true,
+  "description":
+    "Stabilized the extruder to the back center for most triggers.  For snap to print triggers, the extruder will be moved as closely as possible to the stabilization positions depending on the trigger options.",
+  "x_fixed_path_loop": true,
+  "x_relative_print": 100.0,
+  "x_relative": 50.0,
+  "x_fixed_path_invert_loop": true,
+  "y_relative_path_invert_loop": true,
+  "name": "Back Center",
+  "y_fixed_path": "0",
+  "y_relative_print": 100.0,
+  "y_relative_path": "100"
+}

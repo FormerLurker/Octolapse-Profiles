@@ -1,0 +1,37 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Back Right",
+        "value": "back_right"
+      }
+    ]
+  },
+  "y_relative_path_loop": true,
+  "y_relative": 99.0,
+  "x_relative_path": "100.0",
+  "guid": "48413ad7-8345-4da5-af0b-a4f7a4350fc3",
+  "y_fixed_path_loop": true,
+  "x_relative_path_invert_loop": true,
+  "x_type": "relative",
+  "x_relative_path_loop": true,
+  "x_fixed_path": "0",
+  "y_type": "relative",
+  "y_fixed_coordinate": 0.0,
+  "x_fixed_coordinate": 0.0,
+  "y_fixed_path_invert_loop": true,
+  "description":
+    "Stabilized the extruder to the back right for most triggers.  For snap to print triggers, the extruder will be moved as closely as possible to the stabilization positions depending on the trigger options.",
+  "x_fixed_path_loop": true,
+  "x_relative_print": 100.0,
+  "x_relative": 99.0,
+  "x_fixed_path_invert_loop": true,
+  "y_relative_path_invert_loop": true,
+  "name": "Back Right",
+  "y_fixed_path": "0",
+  "y_relative_print": 100.0,
+  "y_relative_path": "100"
+}
