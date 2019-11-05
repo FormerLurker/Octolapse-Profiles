@@ -25,7 +25,7 @@
     },
     {
       "log_level": 5,
-      "name": "octolapse.gcode_parser"
+      "name": "octolapse.gcode_commands"
     },
     {
       "log_level": 5,
