@@ -233,10 +233,6 @@
         "front_right": {
           "name": "Front Right",
           "version": "1.0"
-        },
-        "does_not_exist": {
-          "name": "Does not exist - error test",
-          "version": "1.0"
         }
       }
     },
