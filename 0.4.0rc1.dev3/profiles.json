@@ -148,8 +148,8 @@
               "name": "MK3S",
               "version": "1.0"
             },
-            "mk3S_w_mmu2": {
-              "name": "MK2S with MMU2",
+            "mk3s_w_mmu2": {
+              "name": "MK3S with MMU2",
               "version": "1.0"
             }
           }
