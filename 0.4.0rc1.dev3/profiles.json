@@ -132,6 +132,10 @@
               "name": "MK2.5S",
               "version": "1.0"
             },
+            "mk2.5s_w_mmu2": {
+              "name": "MK2.5S with MMU2",
+              "version": "1.0"
+            },
             "mk2s": {
               "name": "MK2S",
               "version": "1.0"
@@ -142,6 +146,10 @@
             },
             "mk3s": {
               "name": "MK3S",
+              "version": "1.0"
+            },
+            "mk3S_w_mmu2": {
+              "name": "MK2S with MMU2",
               "version": "1.0"
             }
           }

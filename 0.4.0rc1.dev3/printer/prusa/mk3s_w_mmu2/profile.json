@@ -1,0 +1,96 @@
+{
+  "profile": {
+    "automatic_configuration": {
+      "key_values": [
+        {
+          "name": "Prusa",
+          "value": "prusa"
+        },
+        {
+          "name": "MK3S with MMU2",
+          "value": "mk3s_w_mmu2"
+        }
+      ],
+      "is_custom": false,
+      "suppress_update_notification_version": false,
+      "version": "1.0"
+    },
+    "gocde_axis_compatibility_mode_enabled": true,
+    "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+    "height": 0.0,
+    "custom_bounding_box": true,
+    "restrict_snapshot_area": true,
+    "snapshot_min_z": 0.0,
+    "snapshot_min_x": 0.0,
+    "zero_based_extruder": true,
+    "description": "Genuine Prusa MK3S with MMU2.  Should also for MMU1 and MMU2S with MK2, MK2S, Mk2.5, MK2.5S, and MK3.",
+    "snapshot_min_y": 0.0,
+    "home_z": null,
+    "min_y": -3.0,
+    "home_x": null,
+    "home_y": null,
+    "override_octoprint_profile_settings": true,
+    "suppress_snapshot_command_always": true,
+    "default_firmware_retractions": false,
+    "diameter_xy": 0.0,
+    "width": 0.0,
+    "default_extruder": 1,
+    "max_z": 200.0,
+    "extruder_offsets": [
+      {
+        "y": 50,
+        "x": -50
+      },
+      {
+        "y": 0,
+        "x": 0
+      },
+      {
+        "y": 0,
+        "x": 0
+      },
+      {
+        "y": 0,
+        "x": 0
+      },
+      {
+        "y": 0,
+        "x": 0
+      }
+    ],
+    "max_x": 250.0,
+    "max_y": 210.0,
+    "has_been_saved_by_user": true,
+    "shared_extruder": true,
+    "snapshot_diameter_xy": 0.0,
+    "e_axis_default_mode": "absolute",
+    "slicer_type": "automatic",
+    "auto_position_detection_commands": "",
+    "g90_influences_extruder": "false",
+    "num_extruders": 5,
+    "priming_height": 0.4,
+    "min_x": 0.0,
+    "units_default": "millimeters",
+    "default_firmware_retractions_zhop": false,
+    "axis_speed_display_units": "mm-sec",
+    "gcode_generation_settings": {
+      "vase_mode": null,
+      "layer_height": null,
+      "extruders": []
+    },
+    "name": "Prusa - MK3S with MMU2",
+    "min_z": 0.0,
+    "bed_type": "rectangular",
+    "minimum_layer_height": 0.05,
+    "snapshot_command": "snap",
+    "depth": 0.0,
+    "snapshot_max_x": 250.0,
+    "snapshot_max_y": 210.0,
+    "snapshot_max_z": 200.0,
+    "xyz_axes_default_mode": "absolute",
+    "auto_detect_position": true,
+    "origin_type": "front_left"
+  },
+  "version": "0.4.0rc1.dev3",
+  "type": "Printer"
+}
