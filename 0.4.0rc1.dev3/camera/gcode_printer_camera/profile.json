@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0",
+    "version": "1.1",
     "key_values": [
       {
         "name": "Gcode Camera - Built Into Printer",
@@ -21,7 +21,7 @@
   "snapshot_transpose": "",
   "on_before_render_script": "",
   "delay": 125,
-  "camera_type": "printer-gcode",
+  "camera_type": "gcode",
   "on_after_snapshot_script": "",
   "on_print_start_script": "",
   "apply_settings_before_print": true,
