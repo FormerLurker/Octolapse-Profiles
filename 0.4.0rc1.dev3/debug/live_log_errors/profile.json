@@ -5,7 +5,7 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Log All Errors",
+        "name": "Log All Errors - Recommended",
         "value": "live_log_errors"
       }
     ]
