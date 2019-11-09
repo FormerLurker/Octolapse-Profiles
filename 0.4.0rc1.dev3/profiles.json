@@ -339,16 +339,8 @@
         }
       ],
       "values": {
-        "no_logging": {
-          "name": "No Logging",
-          "version": "1.0"
-        },
         "live_log_debug": {
           "name": "Debug",
-          "version": "1.0"
-        },
-        "live_log_errors": {
-          "name": "Log All Errors",
           "version": "1.0"
         },
         "test_log_debug": {
@@ -359,12 +351,20 @@
           "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
           "version": "1.0"
         },
-        "test_log_errors": {
-          "name": "Prevent Extrusion",
+        "test_log_verbose": {
+          "name": "Debug - Prevent Extrusion - Log Everything",
           "version": "1.0"
         },
-        "test_log_verbose": {
-          "name": "Prevent Extrusion - Log Everything",
+        "live_log_errors": {
+          "name": "Log All Errors",
+          "version": "1.0"
+        },
+        "no_logging": {
+          "name": "Logging Disabled",
+          "version": "1.0"
+        },
+        "test_log_errors": {
+          "name": "Prevent Extrusion - Test Mode",
           "version": "1.0"
         }
       }

@@ -5,12 +5,12 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "No Logging",
+        "name": "Logging Disabled",
         "value": "no_logging"
       }
     ]
   },
-  "name": "No Logging",
+  "name": "Logging Disabled",
   "log_to_console": false,
   "is_test_mode": false,
   "enabled": false,
