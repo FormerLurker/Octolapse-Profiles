@@ -11,7 +11,7 @@
     ]
   },
   "timeout_ms": 5000,
-  "apply_settings_at_startup": false,
+  "apply_settings_at_startup": true,
   "on_after_render_script": "",
   "name": "Webcam - Default OctoPi 0.16.0",
   "on_before_snapshot_script": "",
