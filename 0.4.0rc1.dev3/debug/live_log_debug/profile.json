@@ -5,12 +5,12 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Live Print - Debug Issues",
+        "name": "Debug",
         "value": "live_log_debug"
       }
     ]
   },
-  "name": "Live Print - Debug Issues",
+  "name": "Debug",
   "log_to_console": false,
   "is_test_mode": false,
   "enabled": true,

@@ -24,7 +24,7 @@
   "camera_type": "webcam",
   "on_after_snapshot_script": "",
   "on_print_start_script": "",
-  "apply_settings_before_print": false,
+  "apply_settings_before_print": true,
   "guid": "354def78-9eea-409a-ad23-ee966dfff4ba",
   "description": "This profile should work for the default settings within OctoPi V0.16.0 for most locally attached USB or Raspberry Pi cameras."
 }

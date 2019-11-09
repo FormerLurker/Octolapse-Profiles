@@ -166,15 +166,6 @@
               "version": "0.1"
             }
           }
-        },
-        "does_not_exist": {
-          "name": "DOES NOT EXIST - ERROR TEST",
-          "values": {
-            "does_not_exist": {
-              "name": "DOES NOT EXIST - ERROR TEST",
-              "version": "1.0"
-            }
-          }
         }
       }
     },
@@ -348,28 +339,32 @@
         }
       ],
       "values": {
+        "no_logging": {
+          "name": "No Logging",
+          "version": "1.0"
+        },
         "live_log_debug": {
-          "name": "Live Print - Debug Issues",
+          "name": "Debug",
           "version": "1.0"
         },
         "live_log_errors": {
-          "name": "Live Print",
+          "name": "Log All Errors",
           "version": "1.0"
         },
         "test_log_debug": {
-          "name": "Test Mode - Debug Issues",
+          "name": "Debug - Prevent Extrusion",
           "version": "1.0"
         },
         "test_log_c++": {
-          "name": "Test Mode - Debug Gcode Parsing, Preprocessing, and Position Tracking",
+          "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
           "version": "1.0"
         },
         "test_log_errors": {
-          "name": "Test Mode",
+          "name": "Prevent Extrusion",
           "version": "1.0"
         },
         "test_log_verbose": {
-          "name": "Test Mode - Verbose Logging",
+          "name": "Prevent Extrusion - Log Everything",
           "version": "1.0"
         }
       }
@@ -382,18 +377,6 @@
         }
       ],
       "values": {
-        "dslr_immediate_download": {
-          "name": "DSLR - Download Image",
-          "version": "1.0"
-        },
-        "dslr_no_download": {
-          "name": "DSLR - Leave On SD (won't render a timelapse)",
-          "version": "1.0"
-        },
-        "dslr_deferred_download": {
-          "name": "DSLR - Deferred Download (no snapshot previews)",
-          "version": "1.0"
-        },
         "gcode_printer_camera": {
           "name": "Gcode Camera - Built Into Printer",
           "version": "1.0"

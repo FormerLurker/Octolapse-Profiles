@@ -5,12 +5,12 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Test Mode - Verbose Logging",
+        "name": "Prevent Extrusion - Log Everything",
         "value": "test_log_verbose"
       }
     ]
   },
-  "name": "Test Mode - Verbose Logging",
+  "name": "Prevent Extrusion - Log Everything",
   "log_to_console": false,
   "is_test_mode": true,
   "enabled": true,

@@ -5,12 +5,12 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Log All Errors",
-        "value": "live_log_errors"
+        "name": "No Logging",
+        "value": "no_logging"
       }
     ]
   },
-  "name": "Log All Errors",
+  "name": "No Logging",
   "log_to_console": false,
   "is_test_mode": false,
   "enabled": false,
@@ -18,5 +18,5 @@
   "log_all_errors": true,
   "guid": "afbe12d6-0dee-4911-b77e-ee9ebfae7521",
   "default_log_level": 10,
-  "description": "Logs only errors and exceptions.  This is the recommended default profile, logs a minimal amount of data, and has a low impact on performance."
+  "description": "No logging is performed by Octolapse.  However, any uncaught exceptions thrown by Octolapse WILL be logged by Octoprint."
 }

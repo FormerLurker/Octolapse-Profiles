@@ -5,12 +5,12 @@
     "version": "1.0",
     "key_values": [
       {
-        "name": "Test Mode - Debug Issues",
+        "name": "Debug - Prevent Extrusion",
         "value": "test_log_debug"
       }
     ]
   },
-  "name": "Test Mode - Debug Issues",
+  "name": "Debug - Prevent Extrusion",
   "log_to_console": false,
   "is_test_mode": true,
   "enabled": true,
@@ -91,5 +91,5 @@
   "log_all_errors": true,
   "guid": "072f506e-3e5e-4e84-922b-fb4e01690398",
   "default_log_level": 10,
-  "description": "This test mode profile is useful for debugging issues during a print without waiting for warm-up or wasting filament.  Test mode will prevent extrusion, bed and extruder heating, fan controls, and a few other commands.  Logs all but verbose messages.  This will create a very large log file that can affect performance, so only use this when necessary.  This is useful for debugging issues, or for submitting error reports in the github repository."
+  "description": "This test mode profile (all extrusion is prevented) is useful for debugging issues during a print without waiting for warm-up or wasting filament.  Test mode will prevent extrusion, bed and extruder heating, fan controls, and a few other commands.  Logs all but verbose messages.  This will create a very large log file that can affect performance, so only use this when necessary.  This is useful for debugging issues, or for submitting error reports in the github repository."
 }
