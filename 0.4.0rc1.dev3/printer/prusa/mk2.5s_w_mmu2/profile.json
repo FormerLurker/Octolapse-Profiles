@@ -22,7 +22,7 @@
   "snapshot_min_z": 0.0,
   "snapshot_min_x": 0.0,
   "zero_based_extruder": true,
-  "description": "Genuine Prusa MK2.5S with MMU2.  Should also for MMU1 and MMU2S with MK2, MK2S, Mk2.5, MK3 and MK3S.",
+  "description": "Genuine Prusa MK2.5S with MMU2.  Should also work for the MMU1 and MMU2S with either the MK2, MK2S, Mk2.5, MK3, or MK3S.",
   "snapshot_min_y": 0.0,
   "home_z": null,
   "min_y": -3.0,
