@@ -28,6 +28,10 @@
             "i3_mega": {
               "name": "I3 Mega",
               "version": "1.0"
+            },
+            "chiron": {
+              "name": "Chiron",
+              "version": "0.1"
             }
           }
         },
