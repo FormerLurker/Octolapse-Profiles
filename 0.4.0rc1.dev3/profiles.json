@@ -29,6 +29,10 @@
               "name": "I3 Mega",
               "version": "1.0"
             },
+            "mega_s": {
+              "name": "Mega-S",
+              "version": "0.1"
+            },
             "chiron": {
               "name": "Chiron",
               "version": "0.1"

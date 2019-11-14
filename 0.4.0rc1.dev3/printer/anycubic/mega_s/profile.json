@@ -1,0 +1,72 @@
+{
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Anycubic",
+        "value": "anycubic"
+      },
+      {
+        "name": "Mega-S",
+        "value": "mega_s"
+      }
+    ],
+    "is_custom": true,
+    "suppress_update_notification_version": false,
+    "version": "1.0"
+  },
+  "gocde_axis_compatibility_mode_enabled": true,
+  "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+  "height": 205.0,
+  "custom_bounding_box": false,
+  "restrict_snapshot_area": false,
+  "snapshot_min_z": 0.0,
+  "snapshot_min_x": 0.0,
+  "guid": "21a9f6f0-45e7-4095-9f20-0ecf00a8a44f",
+  "zero_based_extruder": true,
+  "description": "Anycubic Mega-S - Version 1.0",
+  "snapshot_min_y": 0.0,
+  "home_z": null,
+  "min_y": 0.0,
+  "home_x": null,
+  "home_y": null,
+  "override_octoprint_profile_settings": true,
+  "suppress_snapshot_command_always": true,
+  "default_firmware_retractions": false,
+  "diameter_xy": 0.0,
+  "width": 210.0,
+  "default_extruder": 1,
+  "max_z": 205.0,
+  "extruder_offsets": [],
+  "max_x": 210.0,
+  "max_y": 210.0,
+  "has_been_saved_by_user": true,
+  "shared_extruder": false,
+  "snapshot_diameter_xy": 0.0,
+  "e_axis_default_mode": "absolute",
+  "slicer_type": "automatic",
+  "auto_position_detection_commands": "",
+  "g90_influences_extruder": "false",
+  "num_extruders": 1,
+  "priming_height": 0.75,
+  "min_x": 0.0,
+  "units_default": "millimeters",
+  "default_firmware_retractions_zhop": false,
+  "axis_speed_display_units": "mm-min",
+  "gcode_generation_settings": {
+    "vase_mode": null,
+    "layer_height": null,
+    "extruders": []
+  },
+  "name": "Anycubic - Mega-S",
+  "min_z": 0.0,
+  "bed_type": "rectangular",
+  "minimum_layer_height": 0.05,
+  "snapshot_command": "snap",
+  "depth": 210.0,
+  "snapshot_max_x": 0.0,
+  "snapshot_max_y": 0.0,
+  "snapshot_max_z": 0.0,
+  "xyz_axes_default_mode": "absolute",
+  "auto_detect_position": true,
+  "origin_type": "front_left"
+}
