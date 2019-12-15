@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0",
+    "version": "1.1",
     "key_values": [
       {
         "name": "MP4 - 60 FPS",
@@ -28,7 +28,7 @@
   "output_format": "mp4",
   "fps_calculation_type": "static",
   "post_roll_seconds": 2,
-  "bitrate": "10000k",
+  "bitrate": "12M",
   "overlay_text_halign": "left",
   "cleanup_after_render_fail": false,
   "name": "MP4 - 60 FPS",

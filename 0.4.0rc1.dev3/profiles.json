@@ -303,43 +303,43 @@
       "values": {
         "mp4_fixed_fps_15": {
           "name": "MP4 - 15 FPS",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_fps_30": {
           "name": "MP4 - 30 FPS",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_fps_60": {
           "name": "MP4 - 60 FPS",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_length_05": {
           "name": "MP4 - Fixed Length - 00:05",
-          "version": "1.0"
+          "version": "1.1"
         },
         "gif_fixed_length_05": {
           "name": "GIF - Fixed Length - 00:05",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_length_10": {
           "name": "MP4 - Fixed Length - 00:10",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_length_15": {
           "name": "MP4 - Fixed Length - 00:15",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_length_30": {
           "name": "MP4 - Fixed Length - 00:30",
-          "version": "1.0"
+          "version": "1.1"
         },
         "mp4_fixed_length_60": {
           "name": "MP4 - Fixed Length - 01:00",
-          "version": "1.0"
+          "version": "1.1"
         },
         "disabled": {
           "name": "Disabled (for manual rendering)",
-          "version": "1.0"
+          "version": "1.1"
         }
       }
     },
