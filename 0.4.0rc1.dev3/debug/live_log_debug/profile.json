@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0",
+    "version": "1.1",
     "key_values": [
       {
         "name": "Debug",
@@ -25,7 +25,7 @@
     },
     {
       "log_level": 10,
-      "name": "octolapse.gcode"
+      "name": "octolapse.stabilization_gcode"
     },
     {
       "log_level": 10,
@@ -37,7 +37,7 @@
     },
     {
       "log_level": 10,
-      "name": "octolapse.gcode_preprocessing"
+      "name": "octolapse.settings_preprocessor"
     },
     {
       "log_level": 10,

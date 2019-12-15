@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.0",
+    "version": "1.1",
     "key_values": [
       {
         "name": "Smart - Compatibility",
@@ -16,7 +16,7 @@
   "smart_layer_trigger_type": 2,
   "smart_layer_snap_to_print_smooth": false,
   "smart_layer_snap_to_print_high_quality": false,
-  "trigger_type": "smart-layer",
+  "trigger_type": "smart",
   "timer_trigger_seconds": 30,
   "position_restrictions": [],
   "trigger_on_retracting_start": "",

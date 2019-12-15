@@ -2,11 +2,11 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.1",
+    "version": "1.0",
     "key_values": [
       {
-        "name": "Smart - Fast (low quality)",
-        "value": "smart_fast"
+        "name": "Smart - Gcode",
+        "value": "smart_gcode"
       }
     ]
   },
@@ -21,7 +21,7 @@
   "position_restrictions": [],
   "trigger_on_retracting_start": "",
   "require_zhop": false,
-  "description": "Takes a snapshot on every layer with an emphasis on speed.  This trigger always chooses the closest position, which is usually an extrusion, and can cause significant artifacts/quality issues.  However, this trigger can be useful if your print contains a wipe tower that is the closest object on your print to the selected stabilization point, or if there is an ooze shield around the print.\n\nThe smart trigger pre-processes your gcode in order to choose better stabilization points, reducing travel time.  This trigger is configured for compatibility with different slicers and printers.",
+  "description": "Takes a snapshot each time the snapshot command is encountered.  The snapshot command is @OCTOLAPSE TAKE-SNAPSHOT, but you can specify an alternative snapshot command within your printer profile if you desire.",
   "trigger_on_extruding": "trigger_on",
   "is_default": false,
   "trigger_on_extruding_start": "trigger_on",
@@ -30,10 +30,10 @@
   "smart_layer_disable_z_lift": true,
   "extruder_state_requirements_enabled": true,
   "trigger_on_primed": "trigger_on",
-  "name": "Smart - Fast (low quality)",
+  "name": "Smart - Gcode",
   "trigger_on_deretracting": "forbidden",
   "trigger_on_retracting": "",
-  "trigger_subtype": "layer",
+  "trigger_subtype": "gcode",
   "trigger_on_deretracted": "forbidden",
   "trigger_on_deretracting_start": ""
 }

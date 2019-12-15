@@ -257,26 +257,30 @@
         },
         "smart_compatibility": {
           "name": "Smart - Compatibility",
-          "version": "1.0"
+          "version": "1.1"
         },
         "smart_fast": {
           "name": "Smart - Fast (low quality)",
-          "version": "1.0"
+          "version": "1.1"
         },
         "smart_high_quality": {
           "name": "Smart - High Quality",
-          "version": "1.0"
+          "version": "1.1"
         },
         "smart_snap_to_print": {
           "name": "Smart - Snap To Print",
-          "version": "1.0"
+          "version": "1.1"
         },
         "smart_snap_to_print_smooth": {
           "name": "Smart - Snap To Print - Smooth",
-          "version": "1.0"
+          "version": "1.1"
         },
         "smart_snap_to_print_high_quality": {
           "name": "Smart - Snap To Print - High Quality",
+          "version": "1.1"
+        },
+        "smart_gcode": {
+          "name": "Smart - Gcode",
           "version": "1.0"
         },
         "timer_30_sec": {
@@ -349,19 +353,19 @@
       "values": {
         "live_log_debug": {
           "name": "Debug",
-          "version": "1.0"
+          "version": "1.1"
         },
         "test_log_debug": {
           "name": "Debug - Prevent Extrusion",
-          "version": "1.0"
+          "version": "1.1"
         },
         "test_log_c++": {
           "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
-          "version": "1.0"
+          "version": "1.1"
         },
         "test_log_verbose": {
           "name": "Debug - Prevent Extrusion - Log Everything",
-          "version": "1.0"
+          "version": "1.1"
         },
         "live_log_errors": {
           "name": "Log All Errors - Recommended",
