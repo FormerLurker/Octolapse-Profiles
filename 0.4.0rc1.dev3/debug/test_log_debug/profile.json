@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.1",
+    "version": "1.2",
     "key_values": [
       {
         "name": "Debug - Prevent Extrusion",
@@ -86,6 +86,10 @@
     {
       "log_level": 10,
       "name": "octolapse.settings_external"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode_processor"
     }
   ],
   "log_all_errors": true,

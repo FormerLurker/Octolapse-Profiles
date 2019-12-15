@@ -353,11 +353,11 @@
       "values": {
         "live_log_debug": {
           "name": "Debug",
-          "version": "1.1"
+          "version": "1.2"
         },
         "test_log_debug": {
           "name": "Debug - Prevent Extrusion",
-          "version": "1.1"
+          "version": "1.2"
         },
         "test_log_c++": {
           "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
@@ -365,7 +365,7 @@
         },
         "test_log_verbose": {
           "name": "Debug - Prevent Extrusion - Log Everything",
-          "version": "1.1"
+          "version": "1.2"
         },
         "live_log_errors": {
           "name": "Log All Errors - Recommended",
