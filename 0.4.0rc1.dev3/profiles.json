@@ -361,7 +361,7 @@
         },
         "test_log_c++": {
           "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
-          "version": "1.1"
+          "version": "1.2"
         },
         "test_log_verbose": {
           "name": "Debug - Prevent Extrusion - Log Everything",

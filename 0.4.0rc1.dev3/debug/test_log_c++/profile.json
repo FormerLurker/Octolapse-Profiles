@@ -2,7 +2,7 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.1",
+    "version": "1.2",
     "key_values": [
       {
         "name": "Debug - Prevent Extrusion - Parsing/Preprocessing/Position Tracking",
@@ -34,6 +34,10 @@
     {
       "log_level": 5,
       "name": "octolapse.settings_preprocessor"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_parser"
     }
   ],
   "log_all_errors": true,

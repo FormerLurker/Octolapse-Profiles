@@ -90,6 +90,10 @@
     {
       "log_level": 5,
       "name": "octolapse.gcode_processor"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.gcode_parser"
     }
   ],
   "log_all_errors": true,
