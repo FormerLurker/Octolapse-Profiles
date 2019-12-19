@@ -18,7 +18,7 @@
           "values": {
             "a8": {
               "name": "A8",
-              "version": "1.0"
+              "version": "1.1"
             }
           }
         },
@@ -27,15 +27,15 @@
           "values": {
             "i3_mega": {
               "name": "I3 Mega",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mega_s": {
               "name": "Mega-S",
-              "version": "0.1"
+              "version": "0.2"
             },
             "chiron": {
               "name": "Chiron",
-              "version": "0.1"
+              "version": "0.2"
             }
           }
         },
@@ -44,27 +44,27 @@
           "values": {
             "cr_10": {
               "name": "CR-10",
-              "version": "1.0"
+              "version": "1.1"
             },
             "cr_10s": {
               "name": "CR-10S",
-              "version": "0.1"
+              "version": "0.2"
             },
             "cr_10s_pro": {
               "name": "CR-10S Pro",
-              "version": "0.1"
+              "version": "0.2"
             },
             "cr_10_mini": {
               "name": "CR-10 Mini",
-              "version": "0.1"
+              "version": "0.2"
             },
             "ender_3": {
               "name": "Ender 3",
-              "version": "0.1"
+              "version": "0.2"
             },
             "ender_3_pro": {
               "name": "Ender 3 Pro",
-              "version": "0.1"
+              "version": "0.2"
             }
           }
         },
@@ -73,7 +73,7 @@
           "values": {
             "neva": {
               "name": "Neva",
-              "version": "1.0"
+              "version": "1.1"
             }
           }
         },
@@ -82,7 +82,7 @@
           "values": {
             "black": {
               "name": "Black",
-              "version": "1.0"
+              "version": "1.1"
             }
           }
         },
@@ -91,7 +91,7 @@
           "values": {
             "taz_6": {
               "name": "Taz 6",
-              "version": "1.0"
+              "version": "1.1"
             }
           }
         },
@@ -100,11 +100,11 @@
             "values": {
               "200x200x170_direct_drive": {
                 "name": "200x200x170 - Direct Drive",
-                "version": "0.1"
+                "version": "0.2"
               },
               "200x200x200_bowden": {
                 "name": "200x200x200 - Bowden",
-                "version": "0.1"
+                "version": "0.2"
               }
             }
         },
@@ -113,15 +113,15 @@
           "values": {
             "maker_select_plus": {
               "name": "Maker Select Plus",
-              "version": "0.1"
+              "version": "0.2"
             },
             "maker_select_v2": {
               "name": "Maker Select V2",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mp_select_mini_v2": {
               "name": "MP Select Mini V2",
-              "version": "0.1"
+              "version": "0.2"
             }
           }
         },
@@ -130,35 +130,35 @@
           "values": {
             "mk2": {
               "name": "MK2",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk2.5": {
               "name": "MK2.5",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk2.5s": {
               "name": "MK2.5S",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk2.5s_w_mmu2": {
               "name": "MK2.5S with MMU2",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk2s": {
               "name": "MK2S",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk3": {
               "name": "MK3",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk3s": {
               "name": "MK3S",
-              "version": "1.0"
+              "version": "1.1"
             },
             "mk3s_w_mmu2": {
               "name": "MK3S with MMU2",
-              "version": "1.0"
+              "version": "1.1"
             }
           }
         },
@@ -167,11 +167,11 @@
           "values": {
             "duplicator_i3": {
               "name": "Duplicator i3",
-              "version": "1.0"
+              "version": "1.1"
             },
             "duplicator_i3_plus": {
               "name": "Duplicator i3 Plus",
-              "version": "0.1"
+              "version": "02"
             }
           }
         }
