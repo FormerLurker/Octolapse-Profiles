@@ -68,5 +68,5 @@
   "zero_based_extruder": true,
   "extruder_offsets": [],
   "default_extruder": 1,
-  "snapshot_command": ""
+  "snapshot_command": "G4 P0"
 }
