@@ -65,6 +65,14 @@
             "ender_3_pro": {
               "name": "Ender 3 Pro",
               "version": "0.2"
+            },
+            "ender_5": {
+              "name": "Ender 5",
+              "version": "0.1"
+            },
+            "ender_5_pro": {
+              "name": "Ender 5 Pro",
+              "version": "0.1"
             }
           }
         },
