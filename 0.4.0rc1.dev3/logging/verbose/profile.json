@@ -97,6 +97,10 @@
     {
       "log_level": 5,
       "name": "octolapse.script"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.migration"
     }
   ],
   "guid": "c873ca00-f972-43af-a810-bd52c936677f",
