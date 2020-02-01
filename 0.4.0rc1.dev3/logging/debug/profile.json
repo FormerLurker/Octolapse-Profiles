@@ -2,23 +2,18 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.3",
+    "version": "1.0",
     "key_values": [
       {
-        "name": "Debug - Prevent Extrusion",
-        "value": "test_log_debug"
+        "name": "Debug",
+        "value": "debug"
       }
     ]
   },
-  "name": "Debug - Prevent Extrusion",
+  "name": "Debug",
   "log_to_console": false,
-  "is_test_mode": true,
   "enabled": true,
   "enabled_loggers": [
-    {
-      "log_level": 10,
-      "name": "octolapse.stabilization_preprocessing"
-    },
     {
       "log_level": 10,
       "name": "octolapse.__init__"
@@ -42,6 +37,10 @@
     {
       "log_level": 10,
       "name": "octolapse.settings_preprocessor"
+    },
+    {
+      "log_level": 10,
+      "name": "octolapse.messenger_worker"
     },
     {
       "log_level": 10,
@@ -69,6 +68,10 @@
     },
     {
       "log_level": 10,
+      "name": "octolapse.stabilization_preprocessing"
+    },
+    {
+      "log_level": 10,
       "name": "octolapse.timelapse"
     },
     {
@@ -78,10 +81,6 @@
     {
       "log_level": 10,
       "name": "octolapse.utility"
-    },
-    {
-      "log_level": 10,
-      "name": "octolapse.messenger_worker"
     },
     {
       "log_level": 10,
@@ -100,8 +99,7 @@
       "name": "octolapse.script"
     }
   ],
-  "log_all_errors": true,
-  "guid": "072f506e-3e5e-4e84-922b-fb4e01690398",
+  "guid": "68d000d6-0ae3-40f4-9b16-bdcb882604a6",
   "default_log_level": 10,
-  "description": "This test mode profile (all extrusion is prevented) is useful for debugging issues during a print without waiting for warm-up or wasting filament.  Test mode will prevent extrusion, bed and extruder heating, fan controls, and a few other commands.  Logs all but verbose messages.  This will create a very large log file that can affect performance, so only use this when necessary.  This is useful for debugging issues, or for submitting error reports in the github repository."
+  "description": "Logs all but verbose messages.  This will create a very large log file that can affect performance, so only use this when necessary.  This is useful for debugging issues, or for submitting error reports in the github repository."
 }

@@ -2,17 +2,16 @@
   "automatic_configuration": {
     "is_custom": false,
     "suppress_update_notification_version": false,
-    "version": "1.3",
+    "version": "1.0",
     "key_values": [
       {
-        "name": "Debug - Prevent Extrusion - Log Everything",
-        "value": "test_log_verbose"
+        "name": "Log Everything",
+        "value": "verbose"
       }
     ]
   },
-  "name": "Debug - Prevent Extrusion - Log Everything",
+  "name": "Log Everything",
   "log_to_console": false,
-  "is_test_mode": true,
   "enabled": true,
   "enabled_loggers": [
     {
@@ -100,7 +99,6 @@
       "name": "octolapse.script"
     }
   ],
-  "log_all_errors": true,
   "guid": "c873ca00-f972-43af-a810-bd52c936677f",
   "default_log_level": 10,
   "description": "This will log absolutely everything that Octolapse is capable of logging.  It will severely impact performance, and is only recommended for very difficult to debug or uncommon errors.  I do not recommend you use this profile unless you are asked for a verbose log after creating an issue in the Octolapse Github repository."
