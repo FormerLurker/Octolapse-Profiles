@@ -85,6 +85,14 @@
             }
           }
         },
+        "geeektech": {
+          "name": "Geeektech",
+          "values": {
+            "a30": {
+              "name": "A30",
+              "version": "0.1"
+            }
+        },
         "irapid": {
           "name": "Irapid",
           "values": {
