@@ -33,5 +33,6 @@
   "name": "Back Right",
   "y_fixed_path": "0",
   "y_relative_print": 100.0,
-  "y_relative_path": "100"
+  "y_relative_path": "100",
+  "wait_for_moves_to_finish": true
 }
