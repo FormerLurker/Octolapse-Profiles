@@ -30,7 +30,7 @@
   "x_relative": 50.0,
   "x_fixed_path_invert_loop": true,
   "y_relative_path_invert_loop": true,
-  "name": "Disabled",
+  "name": "OctoPrint Style - No Stabilization",
   "y_fixed_path": "0",
   "y_relative_print": 50.0,
   "y_relative_path": "50",
