@@ -249,6 +249,10 @@
         "front_right": {
           "name": "Front Right",
           "version": "1.0"
+        },
+        "octoprint_style": {
+          "name": "OctoPrint Style - No Stabilization",
+          "version": "1.0"
         }
       }
     },
