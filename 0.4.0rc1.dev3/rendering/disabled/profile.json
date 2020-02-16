@@ -37,5 +37,6 @@
     "pre_roll_seconds": 0,
     "overlay_font_size": 10,
     "run_length_seconds": 5,
-    "overlay_text_pos": "[0,0]"
+    "overlay_text_pos": "[0,0]",
+    "constant_rate_factor": 28
   }
