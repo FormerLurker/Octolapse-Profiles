@@ -1,6 +1,6 @@
 {
   "name": "Prusa - Mini",
-  "description": "Original Prusa MINI - This is a BETA profile.  Use at your own risk.  Once this profile has been vetted, it will be promoted to v1.0.",
+  "description": "Original Prusa MINI - This is a BETA profile, use at your own risk.  Once this profile has been vetted, it will be promoted to v1.0.",
   "guid": "4ad15edb-9ccd-41a2-a0c6-6efe60f4feb3",
   "automatic_configuration": {
     "key_values": [
