@@ -145,6 +145,10 @@
         "prusa": {
           "name": "Prusa",
           "values": {
+            "mini": {
+              "name": "MINI",
+              "version": "0.1"
+            },
             "mk2": {
               "name": "MK2",
               "version": "1.1"
