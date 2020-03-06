@@ -1,0 +1,42 @@
+{
+    "automatic_configuration": {
+      "is_custom": false,
+      "suppress_update_notification_version": false,
+      "version": "1.1",
+      "key_values": [
+        {
+          "name": "Disabled",
+          "value": "disabled"
+        }
+      ]
+    },
+    "overlay_text_template": "",
+    "overlay_text_valign": "top",
+    "thread_count": 1,
+   "overlay_text_color": [255, 255, 255, 1],
+    "min_fps": 2.0,
+    "cleanup_after_render_complete": true,
+    "guid": "fb620dae-6df7-4e60-8c50-45d0dd82aa47",
+    "overlay_font_path": "",
+    "sync_with_timelapse": true,
+    "max_fps": 120.0,
+    "fps": 30,
+    "output_template": "{FAILEDFLAG}{FAILEDSEPARATOR}{GCODEFILENAME}_{PRINTENDTIME}",
+    "selected_watermark": "",
+    "overlay_text_alignment": "left",
+    "description": "No timelapse will be generated, but all snapshots will be in the Octolapse data directory and can be downloaded and manually rendered.",
+    "output_format": "mp4",
+    "fps_calculation_type": "duration",
+    "post_roll_seconds": 0,
+    "bitrate": "6000k",
+    "overlay_text_halign": "left",
+    "cleanup_after_render_fail": false,
+    "name": "Disabled",
+    "enabled": false,
+    "enable_watermark": false,
+    "pre_roll_seconds": 0,
+    "overlay_font_size": 10,
+    "run_length_seconds": 5,
+    "overlay_text_pos": "[0,0]",
+    "constant_rate_factor": 28
+  }

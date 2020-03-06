@@ -1,0 +1,39 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Animated - Printing",
+        "value": "animated_printing"
+      }
+    ]
+  },
+  "y_relative_path_loop": true,
+  "y_relative": 50.0,
+  "x_relative_path":
+    "45, 45.5, 46, 46.5, 47, 47.5, 48, 48.5, 49, 49.5, 50, 50.5, 51, 51.5, 52, 52.5, 53, 53.5, 54, 54.5, 55",
+  "guid": "0d97b0ec-57ee-425b-a202-ea037910337d",
+  "y_fixed_path_loop": true,
+  "x_relative_path_invert_loop": true,
+  "x_type": "relative_path",
+  "x_relative_path_loop": true,
+  "x_fixed_path": "0",
+  "y_type": "relative",
+  "y_fixed_coordinate": 0.0,
+  "x_fixed_coordinate": 0.0,
+  "y_fixed_path_invert_loop": true,
+  "description":
+    "Animate the X carriage with a back-and-forth motion while keeping the Bed stable.  I like this one!  For snap to print triggers, the extruder will be moved as closely as possible to the stabilization positions depending on the trigger options.",
+  "x_fixed_path_loop": true,
+  "x_relative_print": 50.0,
+  "x_relative": 50.0,
+  "x_fixed_path_invert_loop": true,
+  "y_relative_path_invert_loop": true,
+  "name": "Animated - Printing",
+  "y_fixed_path": "0",
+  "y_relative_print": 50.0,
+  "y_relative_path": "50",
+  "wait_for_moves_to_finish": true
+}

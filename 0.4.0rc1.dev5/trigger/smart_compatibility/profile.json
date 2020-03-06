@@ -1,0 +1,39 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.1",
+    "key_values": [
+      {
+        "name": "Smart - Compatibility",
+        "value": "smart_compatibility"
+      }
+    ]
+  },
+  "trigger_on_retracted": "trigger_on",
+  "layer_trigger_height": 0.0,
+  "guid": "c44de27e-053e-4a89-900f-c89502fec7ee",
+  "smart_layer_trigger_type": 2,
+  "smart_layer_snap_to_print_smooth": false,
+  "smart_layer_snap_to_print_high_quality": false,
+  "trigger_type": "smart",
+  "timer_trigger_seconds": 30,
+  "position_restrictions": [],
+  "trigger_on_retracting_start": "",
+  "require_zhop": false,
+  "description": "Takes a snapshot on every layer with an emphasis on compatibility.  This trigger will return the closest high quality position if one is available.  If no high quality point can be found, it will return the next best points, including extrusions. Because of this it will usually take a snapshot on every layer, regardless of slicer settings.  This trigger will not work with vase mode prints, but will leave substantial artifacts and is not recommended.  Use one of the 'Snap To Print' stabilizations for vase mode prints.\n\nThe smart trigger pre-processes your gcode in order to choose better stabilization points, reducing travel time.  This trigger is configured for compatibility with different slicers and printers.",
+  "trigger_on_extruding": "trigger_on",
+  "is_default": false,
+  "trigger_on_extruding_start": "trigger_on",
+  "trigger_on_partially_retracted": "forbidden",
+  "position_restrictions_enabled": false,
+  "smart_layer_disable_z_lift": true,
+  "extruder_state_requirements_enabled": true,
+  "trigger_on_primed": "trigger_on",
+  "name": "Smart - Compatibility",
+  "trigger_on_deretracting": "forbidden",
+  "trigger_on_retracting": "",
+  "trigger_subtype": "layer",
+  "trigger_on_deretracted": "forbidden",
+  "trigger_on_deretracting_start": ""
+}

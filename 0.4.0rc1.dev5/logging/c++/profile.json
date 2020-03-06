@@ -1,0 +1,45 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Log Parsing/Preprocessing/Position Tracking",
+        "value": "c++"
+      }
+    ]
+  },
+  "name": "Log Parsing/Preprocessing/Position Tracking",
+  "log_to_console": false,
+  "enabled": true,
+  "enabled_loggers": [
+    {
+      "log_level": 5,
+      "name": "octolapse.stabilization_gcode"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.snapshot_plan"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_commands"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_position"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.settings_preprocessor"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.gcode_parser"
+    }
+  ],
+  "guid": "00134550-8ba6-4f31-9fd7-3dcbacbdd8d9",
+  "default_log_level": 10,
+  "description": "This logging profile is useful for debugging problems parsing gcode, tracking the printer's position and state, or preprocessing gcode to create snapshot plans using the new smart layer trigger.  This profile will create very large log files and will make preprocessing VERY VERY slow, so use this only when necessary to solve a specific issue."
+}
