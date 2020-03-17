@@ -171,15 +171,15 @@
             },
             "mk3": {
               "name": "MK3",
-              "version": "1.1"
+              "version": "1.2"
             },
             "mk3s": {
               "name": "MK3S",
-              "version": "1.1"
+              "version": "1.2"
             },
             "mk3s_w_mmu2": {
               "name": "MK3S with MMU2",
-              "version": "1.1"
+              "version": "1.2"
             }
           }
         },
