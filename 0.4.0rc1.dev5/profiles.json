@@ -302,7 +302,7 @@
         },
         "smart_snap_to_print_high_quality": {
           "name": "Smart - Snap To Print - High Quality",
-          "version": "1.1"
+          "version": "1.2"
         },
         "smart_gcode": {
           "name": "Smart - Gcode",
