@@ -1,0 +1,72 @@
+{
+  "name": "Geeetech A30",
+  "description": "This is a beta profile, use at your own risk.",
+  "guid": "fdc7000c-9bc3-4dd2-bc2e-85f9ebcc3c7c",
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Geeektech",
+        "value": "geeektech"
+      },
+      {
+        "name": "A30",
+        "value": "a30"
+      }
+    ],
+    "version": "0.2",
+    "suppress_update_notification_version": false,
+    "is_custom": false
+  },
+  "gocde_axis_compatibility_mode_enabled": false,
+  "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+  "height": 0.0,
+  "custom_bounding_box": true,
+  "restrict_snapshot_area": false,
+  "snapshot_min_z": 0.0,
+  "snapshot_min_x": 0.0,
+  "snapshot_min_y": 0.0,
+  "zero_based_extruder": true,
+  "home_z": null,
+  "min_y": -21.0,
+  "home_x": null,
+  "home_y": null,
+  "override_octoprint_profile_settings": true,
+  "suppress_snapshot_command_always": true,
+  "default_firmware_retractions": false,
+  "diameter_xy": 0.0,
+  "width": 0.0,
+  "max_z": 400.0,
+  "extruder_offsets": [],
+  "max_x": 320.0,
+  "max_y": 320.0,
+  "has_been_saved_by_user": true,
+  "shared_extruder": false,
+  "default_extruder": 1,
+  "e_axis_default_mode": "absolute",
+  "snapshot_diameter_xy": 0.0,
+  "auto_position_detection_commands": "",
+  "g90_influences_extruder": "true",
+  "slicer_type": "automatic",
+  "num_extruders": 1,
+  "priming_height": 0.75,
+  "min_x": 0.0,
+  "units_default": "millimeters",
+  "default_firmware_retractions_zhop": false,
+  "axis_speed_display_units": "mm-sec",
+  "gcode_generation_settings": {
+    "vase_mode": null,
+    "layer_height": null,
+    "extruders": []
+  },
+  "min_z": 0.0,
+  "bed_type": "rectangular",
+  "minimum_layer_height": 0.05,
+  "snapshot_command": "G4 P1",
+  "depth": 0.0,
+  "snapshot_max_x": 0.0,
+  "snapshot_max_y": 0.0,
+  "snapshot_max_z": 0.0,
+  "xyz_axes_default_mode": "absolute",
+  "auto_detect_position": true,
+  "origin_type": "front_left"
+}

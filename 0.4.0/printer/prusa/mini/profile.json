@@ -1,0 +1,72 @@
+{
+  "name": "Prusa - MINI",
+  "description": "Original Prusa MINI - This is a BETA profile, use at your own risk.  Once this profile has been vetted, it will be promoted to v1.0.",
+  "guid": "4ad15edb-9ccd-41a2-a0c6-6efe60f4feb3",
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Prusa",
+        "value": "prusa"
+      },
+      {
+        "name": "MINI",
+        "value": "mini"
+      }
+    ],
+    "suppress_update_notification_version": false,
+    "is_custom": false,
+    "version": 0.2
+  },
+  "gocde_axis_compatibility_mode_enabled": true,
+  "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+  "height": 0.0,
+  "custom_bounding_box": true,
+  "restrict_snapshot_area": true,
+  "snapshot_min_z": 0.0,
+  "snapshot_min_x": 0.0,
+  "snapshot_min_y": 0.0,
+  "zero_based_extruder": true,
+  "home_z": null,
+  "min_y": -2.0,
+  "home_x": null,
+  "home_y": null,
+  "override_octoprint_profile_settings": true,
+  "suppress_snapshot_command_always": true,
+  "default_firmware_retractions": false,
+  "diameter_xy": 0.0,
+  "width": 0.0,
+  "max_z": 180.0,
+  "extruder_offsets": [],
+  "max_x": 180.0,
+  "max_y": 180.0,
+  "has_been_saved_by_user": true,
+  "shared_extruder": false,
+  "default_extruder": 1,
+  "e_axis_default_mode": "absolute",
+  "snapshot_diameter_xy": 0.0,
+  "auto_position_detection_commands": "",
+  "g90_influences_extruder": "true",
+  "slicer_type": "automatic",
+  "num_extruders": 1,
+  "priming_height": 0.75,
+  "min_x": 0.0,
+  "units_default": "millimeters",
+  "default_firmware_retractions_zhop": false,
+  "axis_speed_display_units": "mm-sec",
+  "gcode_generation_settings": {
+    "vase_mode": null,
+    "layer_height": null,
+    "extruders": []
+  },
+  "min_z": 0.0,
+  "bed_type": "rectangular",
+  "minimum_layer_height": 0.05,
+  "snapshot_command": "G4 P1",
+  "depth": 0.0,
+  "snapshot_max_x": 180.0,
+  "snapshot_max_y": 180.0,
+  "snapshot_max_z": 180.0,
+  "xyz_axes_default_mode": "absolute",
+  "auto_detect_position": true,
+  "origin_type": "front_left"
+}

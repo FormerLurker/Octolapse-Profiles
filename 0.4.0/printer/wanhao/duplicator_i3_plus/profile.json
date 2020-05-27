@@ -1,0 +1,72 @@
+{
+  "name": "Wanhao - Duplicator i3 Plus",
+  "description": "This is a beta profile, use at your own risk.",
+  "guid": "f7cc6380-1a1f-4613-ba1c-42f28d09ec9f",
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Wanhao",
+        "value": "wanhao"
+      },
+      {
+        "name": "Duplicator i3 Plus",
+        "value": "duplicator_i3_plus"
+      }
+    ],
+    "version": "0.3",
+    "suppress_update_notification_version": false,
+    "is_custom": false
+  },
+  "has_been_saved_by_user": true,
+  "slicer_type": "automatic",
+  "gcode_generation_settings": {
+    "vase_mode": null,
+    "layer_height": null,
+    "extruders": []
+  },
+  "suppress_snapshot_command_always": true,
+  "auto_detect_position": true,
+  "origin_type": "front_left",
+  "home_x": null,
+  "home_y": null,
+  "home_z": null,
+  "override_octoprint_profile_settings": true,
+  "bed_type": "rectangular",
+  "diameter_xy": 0.0,
+  "width": 200.0,
+  "depth": 200.0,
+  "height": 180.0,
+  "custom_bounding_box": false,
+  "min_x": 0.0,
+  "max_x": 0.0,
+  "min_y": 0.0,
+  "max_y": 0.0,
+  "min_z": 0.0,
+  "max_z": 0.0,
+  "restrict_snapshot_area": false,
+  "snapshot_diameter_xy": 0.0,
+  "snapshot_min_x": 0.0,
+  "snapshot_max_x": 0.0,
+  "snapshot_min_y": 0.0,
+  "snapshot_max_y": 0.0,
+  "snapshot_min_z": 0.0,
+  "snapshot_max_z": 0.0,
+  "auto_position_detection_commands": "",
+  "priming_height": 0.75,
+  "minimum_layer_height": 0.05,
+  "e_axis_default_mode": "absolute",
+  "g90_influences_extruder": "false",
+  "xyz_axes_default_mode": "absolute",
+  "units_default": "millimeters",
+  "axis_speed_display_units": "mm-min",
+  "default_firmware_retractions": false,
+  "default_firmware_retractions_zhop": false,
+  "gocde_axis_compatibility_mode_enabled": true,
+  "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+  "num_extruders": 1,
+  "shared_extruder": false,
+  "zero_based_extruder": true,
+  "extruder_offsets": [],
+  "default_extruder": 1,
+  "snapshot_command": "G4 P1"
+}

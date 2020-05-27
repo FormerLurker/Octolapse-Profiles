@@ -1,0 +1,93 @@
+{
+  "name": "Prusa - MK3S with MMU2",
+  "description": "Genuine Prusa MK3S with MMU2.  Should also for the MMU1 and MMU2S with either the MK2, MK2S, Mk2.5, MK2.5S, or MK3.",
+  "guid": "af080a4f-213e-4b98-8d34-dec1babe7d03",
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Prusa",
+        "value": "prusa"
+      },
+      {
+        "name": "MK3S with MMU2",
+        "value": "mk3s_w_mmu2"
+      }
+    ],
+    "version": "1.3",
+    "suppress_update_notification_version": false,
+    "is_custom": false
+  },
+  "has_been_saved_by_user": true,
+  "slicer_type": "automatic",
+  "gcode_generation_settings": {
+    "vase_mode": null,
+    "layer_height": null,
+    "extruders": []
+  },
+  "suppress_snapshot_command_always": true,
+  "auto_detect_position": true,
+  "origin_type": "front_left",
+  "home_x": null,
+  "home_y": null,
+  "home_z": null,
+  "override_octoprint_profile_settings": true,
+  "bed_type": "rectangular",
+  "diameter_xy": 0.0,
+  "width": 0.0,
+  "depth": 0.0,
+  "height": 0.0,
+  "custom_bounding_box": true,
+  "min_x": 0.0,
+  "max_x": 250.0,
+  "min_y": -3.0,
+  "max_y": 210.0,
+  "min_z": 0.0,
+  "max_z": 210.0,
+  "restrict_snapshot_area": true,
+  "snapshot_diameter_xy": 0.0,
+  "snapshot_min_x": 0.0,
+  "snapshot_max_x": 250.0,
+  "snapshot_min_y": 0.0,
+  "snapshot_max_y": 210.0,
+  "snapshot_min_z": 0.0,
+  "snapshot_max_z": 200.0,
+  "auto_position_detection_commands": "",
+  "priming_height": 0.4,
+  "minimum_layer_height": 0.05,
+  "e_axis_default_mode": "absolute",
+  "g90_influences_extruder": "false",
+  "xyz_axes_default_mode": "absolute",
+  "units_default": "millimeters",
+  "axis_speed_display_units": "mm-sec",
+  "default_firmware_retractions": false,
+  "default_firmware_retractions_zhop": false,
+  "gocde_axis_compatibility_mode_enabled": true,
+  "home_axis_gcode": "G90; Switch to Absolute XYZ\r\nG28 X Y; Home XY Axis",
+  "num_extruders": 5,
+  "shared_extruder": true,
+  "zero_based_extruder": true,
+  "extruder_offsets": [
+    {
+      "x": -50,
+      "y": 50
+    },
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "default_extruder": 1,
+  "snapshot_command": "G4 P1"
+}

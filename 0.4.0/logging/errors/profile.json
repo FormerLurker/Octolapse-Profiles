@@ -1,0 +1,20 @@
+{
+  "automatic_configuration": {
+    "is_custom": false,
+    "suppress_update_notification_version": false,
+    "version": "1.0",
+    "key_values": [
+      {
+        "name": "Log All Errors - Recommended",
+        "value": "errors"
+      }
+    ]
+  },
+  "name": "Log All Errors",
+  "log_to_console": false,
+  "enabled": false,
+  "enabled_loggers": [],
+  "guid": "afbe12d6-0dee-4911-b77e-ee9ebfae7521",
+  "default_log_level": 10,
+  "description": "Logs only errors and exceptions.  This is the recommended default profile, logs a minimal amount of data, and has a low impact on performance."
+}
