@@ -68,8 +68,8 @@
   "zero_based_extruder": true,
   "extruder_offsets": [
     {
-      "x": -50,
-      "y": 50
+      "x": 0,
+      "y": 0
     },
     {
       "x": 0,
