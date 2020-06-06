@@ -380,6 +380,10 @@
           "name": "Debug Logging",
           "version": "1.0"
         },
+        "debug_script_cameras": {
+          "name": "Debug - Script Cameras (DSLR)",
+          "version": "1.0"
+        },
         "c++": {
           "name": "Log Parsing/Preprocessing/Position Tracking",
           "version": "1.0"

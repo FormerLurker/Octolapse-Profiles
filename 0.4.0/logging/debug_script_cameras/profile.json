@@ -1,0 +1,37 @@
+{
+  "automatic_configuration": {
+    "key_values": [
+      {
+        "name": "Debug - Script Cameras (DSLR)",
+        "value": "debug_script_cameras"
+      }
+    ],
+    "suppress_update_notification_version": false,
+    "is_custom": false,
+    "version": 1.0
+  },
+  "name": "Debug - Script Cameras (DSLR)",
+  "log_to_console": false,
+  "enabled": true,
+  "default_log_level": 10,
+  "guid": "fa759ab9-bc02-4fd0-8d12-a7c5c89591c1",
+  "enabled_loggers": [
+    {
+      "log_level": 5,
+      "name": "octolapse.script"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.camera"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.snapshot"
+    },
+    {
+      "log_level": 5,
+      "name": "octolapse.render"
+    }
+  ],
+  "description": "This profile is useful for debugging script based cameras, like DSLRs."
+}
